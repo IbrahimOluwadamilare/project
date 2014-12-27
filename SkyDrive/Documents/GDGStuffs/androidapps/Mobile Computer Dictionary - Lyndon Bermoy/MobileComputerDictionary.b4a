@@ -1,0 +1,198 @@
+﻿Version=2.52
+IconFile=
+NumberOfModules=3
+Module1=ClsScrollPanel
+ModuleVisible1=1
+Module2=ClsCheckList
+ModuleVisible2=1
+Module3=CustomListView
+ModuleVisible3=1
+Package=www.computerdictionary.com
+DoNotOverwriteManifest=False
+ManifestCode='This code will be applied to the manifest file during compilation.~\n~'You do not need to modify it in most cases.~\n~'See this link for for more information: http://www.basic4ppc.com/forum/showthread.php?p=78136~\n~AddManifestText(~\n~<uses-sdk android:minSdkVersion="4" />~\n~<supports-screens android:largeScreens="true" ~\n~    android:normalScreens="true" ~\n~    android:smallScreens="true" ~\n~    android:anyDensity="true"/>)~\n~SetApplicationAttribute(android:icon, "@drawable/icon")~\n~SetApplicationAttribute(android:label, "$LABEL$")~\n~'End of default text.~\n~
+UserTypesHint=CustomListView,ClsCheckList,typSortData,ClsScrollPanel,typCache
+NumberOfFiles=1
+File1=tutorial.bal
+NumberOfLibraries=8
+Library1=animation
+Library2=core
+Library3=icostexttospeech
+Library4=phone
+Library5=reflection
+Library6=scrollview2d
+Library7=sql
+Library8=stringutils
+@EndOfDesignText@
+#Region  Project Attributes 
+	#ApplicationLabel: Computer Dictionary
+	#VersionCode: 1
+	#VersionName: 1.0
+	'SupportedOrientations possible values: unspecified, landscape or portrait.
+	#SupportedOrientations: unspecified
+	#CanInstallToExternalStorage: false
+#End Region
+
+#Region  Activity Attributes 
+	#FullScreen: False
+	#IncludeTitle: True
+#End Region
+
+Sub Process_Globals
+	'These global variables will be declared once when the application starts.
+	'These variables can be accessed from all modules.
+ Dim sql1 As SQL
+ Dim cursor1 As Cursor
+End Sub
+
+Sub Globals
+	'These global variables will be redeclared each time the activity is created.
+	'These variables can only be accessed from this module.
+	Dim auto1 As AutoCompleteEditText
+	Dim lbl1 As Label
+	Dim tts As ICOSTextToSpeech
+	'Dim spSV1 As ClsScrollPanel	
+	'Dim lstSV1 As ClsCheckList
+	Dim Button1 As Button
+	'Dim img As ImageView
+	'Dim sv1 As ScrollView
+	Dim Label2 As Label
+	Dim sv2d As ScrollView2D
+	Dim StrUtil As StringUtils
+	Dim clv1 As CustomListView
+	Dim Panel1 As Panel
+	Dim btnSearch As Button
+	Dim btnExit As Button
+End Sub
+
+Sub Activity_Create(FirstTime As Boolean)
+	'Do not forget to load the layout file created with the visual designer. For example:
+		Activity.LoadLayout("tutorial")
+		
+		tts.InitializeTTs("tts", "en")
+		'auto1.Initialize("auto1")
+		'lbl1.Initialize("lbl1")
+		'Activity.AddView(auto1,0dip,10dip,300dip,70dip)
+		'Activity.AddView(lbl1,50dip,100dip,300dip,70dip) 
+		
+		'If auto1.Text="angela" Then
+		'lbl1.Text = "Ok"
+		'End IfscvText.Height = 100%y - scvText.Top
+	'sv1.Height = 100%y - sv1.Top
+	clv1.Initialize(Me, "clv1")
+	Panel1.AddView(clv1.AsView, 0, 0, Panel1.Width, Panel1.Height)
+	
+	clv1.DefaultTextBackgroundColor = Colors.DarkGray
+		If File.Exists(File.DirInternal,"db2.sqlite") = False Then
+		File.Copy(File.DirAssets,"db2.sqlite",File.DirInternal,"db2.sqlite")
+	End If
+	
+	If sql1.IsInitialized = False Then
+		sql1.Initialize(File.DirInternal, "db2.sqlite", False)
+	End If
+ 	view1("")
+	lbl1.Text = ""
+
+	
+	
+	' Our label "mirror" is invisible at start
+	'lbl1.Visible = False
+End Sub
+
+
+Sub Activity_Resume
+	If File.Exists(File.DirInternal,"db1.sqlite") = False Then
+		File.Copy(File.DirAssets,"db1.sqlite",File.DirInternal,"db1.sqlite")
+	End If
+	
+	If sql1.IsInitialized = False Then
+		sql1.Initialize(File.DirInternal, "db1.sqlite", False)
+	End If
+	lbl1.Text = ""
+	'img.Visible = False
+End Sub
+
+Sub Activity_Pause (UserClosed As Boolean)
+	
+End Sub
+
+Sub auto1_TextChanged (Old As String, New As String)
+	Dim buffer() As Byte
+	Dim InputStream1 As InputStream
+	Dim Bitmap1 As Bitmap
+	
+	view1(auto1.Text)
+	
+
+End Sub
+Sub Button1_Click
+	view1(auto1.Text)
+	For i = 0 To cursor1.RowCount - 1
+	cursor1.Position = i
+	If auto1.Text <> cursor1.GetString("CName") Then
+		Msgbox("Word is not in the dictionary.","Note")
+	Else
+	tts.Speaking(auto1.Text)
+	End If
+	Next
+End Sub
+
+Sub view1( psearch As String)
+	'lstSV1.Initialize(Me, sv1, "", "", "", 0)
+	Dim DemoText As String
+	'sv1.FullScroll(True)		
+	cursor1 = sql1.ExecQuery("Select * from tbDictionary WHERE CName like '" & psearch & "%'")
+	For i = 0 To cursor1.RowCount - 1
+	cursor1.Position = i
+	Dim nomi() As String
+	Dim str As Label
+	nomi = Array As String(cursor1.GetString("CName")) 
+	auto1.SetItems(nomi)
+	Dim lbl As Label
+	lbl.Initialize("lbl")
+	lbl.Gravity = Bit.OR(Gravity.CENTER_VERTICAL, Gravity.TOP)
+	lbl.Text = cursor1.GetString("CName")
+	lbl.TextSize = 16
+	lbl.TextColor = Colors.Red
+	'Panel1.AddView(lbl, 5dip, 2dip, 150dip, Panel1.Height - 4dip)
+	'Panel1.AddView(lbl, 0, 0, Panel1.Width, Panel1.Height)
+	clv1.AddTextItem(lbl.Text & CRLF & "",cursor1.GetString("Description"))
+		Next
+		
+End Sub
+
+Sub clv1_ItemClick (Index As Int, Value As Object)
+	
+	'Dim psearch As String
+	'cursor1 = sql1.ExecQuery("Select * from tbDictionary WHERE CName like '" & psearch & "%'")
+	'For i = 0 To cursor1.RowCount - 1
+	'cursor1.Position = i
+	'Dim DemoText As String
+	'DemoText = cursor1.GetString("CName")
+	
+	'Next
+	'tts.Speaking(DemoText)
+	
+	Msgbox(Value,"")
+End Sub
+Sub btnSearch_Click
+	view1(auto1.Text)
+	
+	If auto1.Text = cursor1.GetString("CName") Then
+		'lbl1.Text = cursor1.GetString("Description")
+		'buffer = cursor1.GetBlob("Image")
+	  ' clv1.AddTextItem(cursor1.GetString("Description"),"")
+	   'clv1.GetItemFromView(cursor1.GetString("Description"))
+	  Msgbox(cursor1.GetString("Description"),cursor1.GetString("CName"))
+	'Bitmap1.Initialize2(InputStream1)
+	'InputStream1.Close
+	'img.SetBackgroundImage(Bitmap1)
+	
+	Else
+	'lbl1.Text = ""
+	'img.Visible = False
+	Msgbox("Word not found.","Note")
+	End If
+End Sub
+Sub btnExit_Click
+	Activity.Finish
+End Sub
