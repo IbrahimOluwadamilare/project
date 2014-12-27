@@ -1,0 +1,67 @@
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\App.g.i.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\App.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\HomeScreen.g.i.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\HomeScreen.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\ItemPage.g.i.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\ItemPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\PivotPage.g.i.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\PivotPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\XamlTypeInfo.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\App.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\ItemPage.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\PivotPage.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\App.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\ItemPage.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\PivotPage.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\XamlSaveStateFile.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\HomeScreen.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\HomeScreen.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\App.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\HomeScreen.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\ItemPage.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\PivotPage.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\JAMB TEST.xr.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\JAMB TEST.exe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\JAMB TEST.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\resources.pri
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\AppxManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\JAMB TEST.build.appxrecipe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\JAMB TEST.exe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\JAMB TEST.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\priconfig.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\priconfig.xml.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\layout.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\layout.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\resources.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\resources.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\pri.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\pri.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\qualifiers.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\qualifiers.txt.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\ProjectArchitectures.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\About.g.i.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\About.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\Information.g.i.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\Information.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\ResultPage.g.i.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\ResultPage.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\UserRegistration.g.i.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\UserRegistration.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\Year.g.i.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\Year.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\About.xaml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\Information.xaml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\ResultPage.xaml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\UserRegistration.xaml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\Year.xaml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\About.xbf
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\Information.xbf
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\ResultPage.xbf
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\UserRegistration.xbf
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\obj\Debug\Year.xbf
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\About.xbf
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\Information.xbf
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\ResultPage.xbf
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\UserRegistration.xbf
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\JAMB TEST\JAMB TEST\bin\Debug\Year.xbf

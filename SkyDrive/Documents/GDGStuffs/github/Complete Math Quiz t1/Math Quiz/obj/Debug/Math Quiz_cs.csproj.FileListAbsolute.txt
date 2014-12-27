@@ -1,0 +1,6 @@
+c:\Users\kempb\Documents\Visual Studio 2013\Projects\Math Quiz\Math Quiz\bin\Debug\Math Quiz.exe.config
+c:\Users\kempb\Documents\Visual Studio 2013\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.exe
+c:\Users\kempb\Documents\Visual Studio 2013\Projects\Math Quiz\Math Quiz\obj\Debug\Math Quiz.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Complete Math Quiz t1\Math Quiz\bin\Debug\Math Quiz.exe.config
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Complete Math Quiz t1\Math Quiz\obj\Debug\Math Quiz.exe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Complete Math Quiz t1\Math Quiz\obj\Debug\Math Quiz.pdb

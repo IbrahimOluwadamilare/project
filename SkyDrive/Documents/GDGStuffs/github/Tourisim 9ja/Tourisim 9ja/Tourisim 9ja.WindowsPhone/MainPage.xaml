@@ -1,0 +1,106 @@
+﻿<Page x:Class="Tourisim_9ja.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:Tourisim_9ja"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25*" />
+            <RowDefinition Height="75*" />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical"
+                    Grid.Row="0">
+            <StackPanel Orientation="Horizontal"
+                        Height="103">
+                <Image Source="Assets/tourism.png"
+                       Margin="25,0,0,0"
+                       Height="52" />
+                <TextBlock Margin="10,23,0,30"
+                           TextWrapping="Wrap"
+                           Text="Tourist 9ja"
+                           Style="{StaticResource BodyTextBlockStyle}"
+                           FontSize="45"
+                           FontFamily="Showcard Gothic" />
+
+            </StackPanel>
+            <TextBlock Margin="27,0,0,0"
+                       TextWrapping="Wrap"
+                       Text="Pick a Category to view destination places in Nigeria."
+                       VerticalAlignment="Top"
+                       Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"
+                       FontSize="16" />
+        </StackPanel>
+        <StackPanel Orientation="Vertical" Grid.Row="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30*" />
+                    <RowDefinition Height="70*" />
+                </Grid.RowDefinitions>
+                <Grid Margin="26,0,21,38.667">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Margin="0,30,20,0"
+                               TextWrapping="Wrap"
+                               Text="Destinations sorted by states"
+                               VerticalAlignment="Center"
+                               Style="{StaticResource ListViewItemContentTextBlockStyle}"
+                               FontSize="20"
+                               HorizontalAlignment="Left"
+                               FontWeight="Bold"
+                               Grid.Row="0" 
+                               Tapped="TextBlock_Tapped" />
+                    <TextBlock Margin="0,30,20,0"
+                               TextWrapping="Wrap"
+                               Text="Destinations sorted by names"
+                               VerticalAlignment="Center"
+                               Style="{StaticResource ListViewItemContentTextBlockStyle}"
+                               FontSize="20"
+                               HorizontalAlignment="Left"
+                               FontWeight="Bold"
+                               Grid.Row="1" />
+
+
+                </Grid>
+                <StackPanel Orientation="Vertical"
+                            Grid.Row="1"
+                            Margin="0,10,0,0">
+                    <TextBlock Margin="27,0,20,0"
+                               TextWrapping="Wrap"
+                               Text="Destination pick of the day"
+                               VerticalAlignment="Top"
+                               Style="{StaticResource ListViewItemTextBlockStyle}"
+                               FontSize="20"
+                               HorizontalAlignment="Center"
+                               FontWeight="Bold" />
+                    <Image Source="Assets/WideLogo.png"
+                           Margin="25,0,20,0"
+                           Height="200" />
+
+                    <TextBlock Margin="27,0,20,0"
+                               TextWrapping="Wrap"
+                               Text="Brief Information about the destination pick of the day"
+                               VerticalAlignment="Top"
+                               Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"
+                               FontSize="16" />
+                </StackPanel>
+            </Grid>
+
+        </StackPanel>
+
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar >
+            <AppBarButton x:Uid="AddAppBarButton"
+                          x:Name="AddAppBarButton"
+                          Label="About"
+                          Icon="Help"
+                          Tapped="about" />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

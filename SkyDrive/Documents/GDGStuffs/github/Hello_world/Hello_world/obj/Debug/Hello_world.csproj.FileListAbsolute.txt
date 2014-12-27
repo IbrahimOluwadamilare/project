@@ -1,0 +1,5 @@
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Hello_world\Hello_world\bin\Debug\Hello_world.exe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Hello_world\Hello_world\bin\Debug\Hello_world.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Hello_world\Hello_world\obj\Debug\Hello_world.csprojResolveAssemblyReference.cache
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Hello_world\Hello_world\obj\Debug\Hello_world.exe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Hello_world\Hello_world\obj\Debug\Hello_world.pdb

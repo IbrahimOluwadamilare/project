@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OLUWADAMILARE</Machine>
+    <WindowsUser>Oluwadamilare Ib</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2ebef47e-6773-4c6c-b152-417b19d50a5f</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>0CE5B17CD2BFFC770FF0C6977AC102920F7B57ABD2E6EC5BB37DCAC18FE5EDF1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2ebef47e-6773-4c6c-b152-417b19d50a5f_1.0.0.0_neutral__dyrpf1a2q9qst</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2ebef47e-6773-4c6c-b152-417b19d50a5f_dyrpf1a2q9qst!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2ebef47e-6773-4c6c-b152-417b19d50a5f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Oluwadamilare Ib</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-10T12:59:34.415</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\bin\Debug\Tourisim 9ja.Windows.exe">
+      <PackagePath>Tourisim 9ja.Windows.exe</PackagePath>
+      <Modified>2014-08-10T12:59:32.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T20:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\Assets\tourism.png">
+      <PackagePath>Assets\tourism.png</PackagePath>
+      <Modified>2014-08-10T12:56:02.799</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-08-10T12:59:32.332</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-08-10T12:59:32.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\bin\Debug\Tourisim 9ja.Windows.xr.xml">
+      <PackagePath>Tourisim 9ja.Windows.xr.xml</PackagePath>
+      <Modified>2014-08-10T12:59:32.238</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-08-10T12:59:33.301</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

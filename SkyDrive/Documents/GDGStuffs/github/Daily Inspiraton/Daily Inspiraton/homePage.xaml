@@ -1,0 +1,196 @@
+﻿<Page x:Class="Daily_Inspiraton.homePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:Daily_Inspiraton"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition />
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0"
+                    Margin="19,0,0,0">
+                <TextBlock Text="Daily Inspiration"
+                       Margin="0,-6.5,0,26.5"
+                       Style="{ThemeResource HeaderTextBlockStyle}"
+                       CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}" />
+            <TextBlock Text="Get inspired daily with great quotes from achievers"
+                       Style="{StaticResource ListViewItemContentTextBlockStyle}"
+                       FontStyle="Italic"
+                       Margin="0,-25,0,0" />
+            <Grid>
+                <StackPanel Orientation="Horizontal">
+                    <TextBox Width="250"
+                             TextWrapping="Wrap"
+                             Margin="0,0,-205,0"
+                             VerticalAlignment="Center"
+                             Text=""
+                             FontSize="18" />
+                    <Button Content="Search"
+                            Margin="210,0,0,0" />
+                    
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1"
+              x:Name="ContentRoot"
+              Margin="19,9.5,19,0">
+            <StackPanel>
+                <Grid Height="491"
+                      Margin="0,0,-0.333,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="60*" />
+                        <RowDefinition Height="40*" />
+                    </Grid.RowDefinitions>
+
+
+                    <Grid Grid.Row="0"
+                          x:Name="main_content_grid1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="20*" />
+                            <RowDefinition Height="80*" />
+                        </Grid.RowDefinitions>
+                    <TextBlock Text="Choose a Category"
+                               TextAlignment="Center"
+                               Style="{ThemeResource TitleTextBlockStyle}"
+                               Margin="0,12,0,0"
+                               FontWeight="Bold"
+                               Grid.Row="0"
+                               FontStyle="Italic" />
+                        <Grid Grid.Row="1"
+                              x:Name="category_grid">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="50*" />
+                                <RowDefinition Height="50*" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="33.33*" />
+                                <ColumnDefinition Width="33.33*" />
+                                <ColumnDefinition Width="33.33*" />
+                            </Grid.ColumnDefinitions>
+                            <Grid Grid.Column="0"
+                                  Grid.Row="0"
+                                  Tapped="authors">
+                            <Image 
+                                   HorizontalAlignment="Left"
+                                   Height="70"
+                                   Margin="23"
+                                   VerticalAlignment="Top"
+                                   Source="Assets/Author.png"
+                                   Width="70"
+                                    />
+                            <TextBlock Text="Authors"
+                                       Style="{StaticResource ListViewItemContentTextBlockStyle}"
+                                       FontStyle="Italic"
+                                       TextAlignment="Center"
+                                       Margin="0,0,0,0"
+                                       />
+                            </Grid>
+                            <Image Grid.Column="1"
+                                   Grid.Row="0"
+                                   HorizontalAlignment="Left"
+                                   Height="70"
+                                   Margin="23"
+                                   VerticalAlignment="Top"
+                                   Source="Assets/quotes.png"
+                                   Width="70" />
+                            <TextBlock Text="Quotes"
+                                       TextAlignment="Center"
+                                       Style="{StaticResource ListViewItemContentTextBlockStyle}"
+                                       FontStyle="Italic"
+                                       Margin="0,0,0,0"
+                                       Grid.Column="1"
+                                       Grid.Row="0" />
+                            <Image Grid.Column="2"
+                                   Grid.Row="0"
+                                   HorizontalAlignment="Left"
+                                   Height="70"
+                                   Margin="23"
+                                   VerticalAlignment="Top"
+                                   Source="Assets/Category.png"
+                                   Width="70" />
+                            <TextBlock Text="Categories"
+                                       TextAlignment="Center"
+                                       Style="{StaticResource ListViewItemContentTextBlockStyle}"
+                                       FontStyle="Italic"
+                                       Margin="0,0,0,0"
+                                       Grid.Column="2"
+                                       Grid.Row="0" />
+                            <Image Grid.Column="0"
+                                   Grid.Row="1"
+                                   HorizontalAlignment="Left"
+                                   Height="70"
+                                   Margin="23"
+                                   VerticalAlignment="Top"
+                                   Source="Assets/Top.png"
+                                   Width="70" />
+                            <TextBlock Text="Top Quotes"
+                                        TextAlignment="Center" 
+                                       Style="{StaticResource ListViewItemContentTextBlockStyle}"
+                                       FontStyle="Italic"
+                                       Margin="0,0,0,0"
+                                       Grid.Column="0"
+                                       Grid.Row="1" />
+                            <Image Grid.Column="1"
+                                   Grid.Row="1"
+                                   HorizontalAlignment="Left"
+                                   Height="70"
+                                   Margin="23"
+                                   VerticalAlignment="Top"
+                                   Source="Assets/favourites.png"
+                                   Width="70" />
+                            <TextBlock Text="Favourites"
+                                       TextAlignment="Center"
+                                       Style="{StaticResource ListViewItemContentTextBlockStyle}"
+                                       FontStyle="Italic"
+                                       Margin="0,0,0,0"
+                                       Grid.Column="1"
+                                       Grid.Row="1" />
+                            <Image Grid.Column="2"
+                                   Grid.Row="1"
+                                   HorizontalAlignment="Left"
+                                   Height="70"
+                                   Margin="23"
+                                   VerticalAlignment="Top"
+                                   Source="Assets/Filter.png"
+                                   Width="70" />
+                            <TextBlock Text="Filter"
+                                       TextAlignment="Center"
+                                       Style="{StaticResource ListViewItemContentTextBlockStyle}"
+                                       FontStyle="Italic"
+                                       Margin="0,0,0,0"
+                                       Grid.Column="2"
+                                       Grid.Row="1" />
+                        </Grid>
+                    </Grid>
+                    <Grid Grid.Row="1"
+                          x:Name="main_content_grid2">
+                        <TextBlock Text="Quote of the day "
+                                   TextAlignment="Center"
+                                   Style="{ThemeResource TitleTextBlockStyle}"
+                                   Margin="0,12,0,0"
+                                   FontWeight="Bold"
+                                   FontStyle="Italic"/>
+                    </Grid>
+                </Grid>
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+</Page>

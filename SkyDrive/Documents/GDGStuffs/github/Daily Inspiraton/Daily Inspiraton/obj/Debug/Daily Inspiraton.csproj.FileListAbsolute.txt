@@ -1,0 +1,42 @@
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\App.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\ItemPage.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\PivotPage.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\Daily Inspiraton.xr.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\Daily Inspiraton.exe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\Daily Inspiraton.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\resources.pri
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\AppxManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\Daily Inspiraton.build.appxrecipe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\App.g.i.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\App.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\ItemPage.g.i.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\ItemPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\PivotPage.g.i.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\PivotPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\XamlTypeInfo.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\App.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\ItemPage.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\PivotPage.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\App.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\ItemPage.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\PivotPage.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\XamlSaveStateFile.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\Daily Inspiraton.exe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\Daily Inspiraton.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\priconfig.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\priconfig.xml.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\layout.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\layout.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\resources.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\resources.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\pri.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\pri.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\qualifiers.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\qualifiers.txt.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\ProjectArchitectures.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\homePage.g.i.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\homePage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\homePage.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\obj\Debug\homePage.xbf
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Daily Inspiraton\Daily Inspiraton\bin\Debug\homePage.xbf

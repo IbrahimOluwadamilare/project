@@ -1,0 +1,106 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "App3", "App3", "{0ABC3607-9E29-4BF1-891A-D057B37198EF}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "App3.Shared", "App3\App3.Shared\App3.Shared.shproj", "{1E910355-84CE-4A02-A518-CE2DC1D3731A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App3.Windows", "App3\App3.Windows\App3.Windows.csproj", "{C898D294-EBFF-4FA0-9E23-467C3A00AA11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App3.WindowsPhone", "App3\App3.WindowsPhone\App3.WindowsPhone.csproj", "{387A1BAA-A069-4F26-84FB-0BEA37137EF3}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		App3\App3.Shared\App3.Shared.projitems*{387a1baa-a069-4f26-84fb-0bea37137ef3}*SharedItemsImports = 4
+		App3\App3.Shared\App3.Shared.projitems*{1e910355-84ce-4a02-a518-ce2dc1d3731a}*SharedItemsImports = 13
+		App3\App3.Shared\App3.Shared.projitems*{c898d294-ebff-4fa0-9e23-467c3a00aa11}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://ibrahimoluwadamilare.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = App3\\App3.Shared\\App3.Shared.projitems
+		SccProjectTopLevelParentUniqueName1 = App3.sln
+		SccProjectName1 = App3/App3.Shared
+		SccLocalPath1 = App3\\App3.Shared
+		SccProjectUniqueName2 = App3\\App3.Shared\\App3.Shared.shproj
+		SccProjectTopLevelParentUniqueName2 = App3.sln
+		SccProjectName2 = App3/App3.Shared
+		SccLocalPath2 = App3\\App3.Shared
+		SccProjectUniqueName3 = App3\\App3.Windows\\App3.Windows.csproj
+		SccProjectTopLevelParentUniqueName3 = App3.sln
+		SccProjectName3 = App3/App3.Windows
+		SccLocalPath3 = App3\\App3.Windows
+		SccProjectUniqueName4 = App3\\App3.WindowsPhone\\App3.WindowsPhone.csproj
+		SccProjectTopLevelParentUniqueName4 = App3.sln
+		SccProjectName4 = App3/App3.WindowsPhone
+		SccLocalPath4 = App3\\App3.WindowsPhone
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|ARM.Build.0 = Debug|ARM
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|ARM.Deploy.0 = Debug|ARM
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|x64.ActiveCfg = Debug|x64
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|x64.Build.0 = Debug|x64
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|x64.Deploy.0 = Debug|x64
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|x86.ActiveCfg = Debug|x86
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|x86.Build.0 = Debug|x86
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Debug|x86.Deploy.0 = Debug|x86
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|ARM.ActiveCfg = Release|ARM
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|ARM.Build.0 = Release|ARM
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|ARM.Deploy.0 = Release|ARM
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|x64.ActiveCfg = Release|x64
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|x64.Build.0 = Release|x64
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|x64.Deploy.0 = Release|x64
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|x86.ActiveCfg = Release|x86
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|x86.Build.0 = Release|x86
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11}.Release|x86.Deploy.0 = Release|x86
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|ARM.ActiveCfg = Debug|ARM
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|ARM.Build.0 = Debug|ARM
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|ARM.Deploy.0 = Debug|ARM
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|x86.ActiveCfg = Debug|x86
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|x86.Build.0 = Debug|x86
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Debug|x86.Deploy.0 = Debug|x86
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|ARM.ActiveCfg = Release|ARM
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|ARM.Build.0 = Release|ARM
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|ARM.Deploy.0 = Release|ARM
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|x64.ActiveCfg = Release|Any CPU
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|x86.ActiveCfg = Release|x86
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|x86.Build.0 = Release|x86
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1E910355-84CE-4A02-A518-CE2DC1D3731A} = {0ABC3607-9E29-4BF1-891A-D057B37198EF}
+		{C898D294-EBFF-4FA0-9E23-467C3A00AA11} = {0ABC3607-9E29-4BF1-891A-D057B37198EF}
+		{387A1BAA-A069-4F26-84FB-0BEA37137EF3} = {0ABC3607-9E29-4BF1-891A-D057B37198EF}
+	EndGlobalSection
+EndGlobal

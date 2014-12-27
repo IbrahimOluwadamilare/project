@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OLUWADAMILARE</Machine>
+    <WindowsUser>Oluwadamilare Ib</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5208fb0c-a457-4f8b-8a81-13e6c78cb061</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\bin\Debug\futaRadio.exe">
+      <PackagePath>futaRadio.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\Assets\Device-Radio.png">
+      <PackagePath>Assets\Device-Radio.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\Assets\Radio-Access.png">
+      <PackagePath>Assets\Radio-Access.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\bin\Debug\BlankPage1.xbf">
+      <PackagePath>BlankPage1.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\bin\Debug\futaRadio.xr.xml">
+      <PackagePath>futaRadio.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\futaRadio\futaRadio\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

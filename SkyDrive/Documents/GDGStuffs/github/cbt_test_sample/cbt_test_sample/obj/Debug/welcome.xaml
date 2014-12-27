@@ -1,0 +1,229 @@
+﻿<Page x:Class="cbt_test_sample.welcome"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:cbt_test_sample"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d">
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1"
+                             StartPoint="0.5,0">
+            <GradientStop Color="#FF33A5DA"
+                          Offset="0" />
+            <GradientStop Color="#FF1675D4"
+                          Offset="1" />
+        </LinearGradientBrush>
+    </Page.Background>
+
+    <Grid x:Name="LayoutRoot">
+
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition />
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- TitlePanel -->
+        <StackPanel Grid.Row="0"
+                    Margin="24,17,0,28">
+            <TextBlock Text="Pre JAMB CBT Exam"
+                       Style="{ThemeResource TitleTextBlockStyle}"
+                       Typography.Capitals="SmallCaps" />
+            <TextBlock Text="Welcome"
+                       Margin="0,12,0,0"
+                       Style="{ThemeResource HeaderTextBlockStyle}" />
+            <TextBlock Text="Choose your subject test choice:"
+                       Style="{ThemeResource TitleTextBlockStyle}"
+                       Typography.Capitals="SmallCaps" />
+        </StackPanel>
+
+        <!--TODO: Content should be placed within the following grid-->
+        <Grid Grid.Row="1"
+              x:Name="ContentRoot">
+            <ScrollViewer VerticalScrollBarVisibility="Hidden"
+                          HorizontalScrollBarVisibility="Auto">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="70*" />
+                        <ColumnDefinition Width="30*" />
+                    </Grid.ColumnDefinitions>
+
+
+                    <Grid x:ConnectionId='1' Grid.ColumnSpan="2"
+                          Margin="25,5,5,5"
+                                                          >
+
+
+                        <TextBlock Text="Mathematics"
+                                   Grid.Row="0"
+                                   Margin="0,5,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.833,5,5.167"
+                          Grid.Row="1">
+
+
+                        <TextBlock Text="English"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Margin="0,5,125,-1" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.667,5,5.333"
+                          Grid.Row="2">
+
+
+                        <TextBlock Text="Chemistry"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Margin="0,5,125,-1" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,5.5,5,4.5"
+                          Grid.Row="3">
+
+
+                        <TextBlock Text="Biology"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Margin="0,5,125,-1" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,5.333,5,4.667"
+                          Grid.Row="4">
+
+
+                        <TextBlock Text="Physics"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Margin="0,5,125,-1" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,5.167,5,4.833"
+                          Grid.Row="5">
+
+
+                        <TextBlock Text="Economics"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Margin="0,5,125,-1" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,5,5,5"
+                          Grid.Row="6">
+
+
+                        <TextBlock Text="Account"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Margin="0,5,125,-1" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.833,5,5.167"
+                          Grid.Row="7">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="61*" />
+                            <ColumnDefinition Width="13*" />
+                        </Grid.ColumnDefinitions>
+
+
+                        <TextBlock Text="Commerce"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Margin="0,5,59.652,-2" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None"
+                               Grid.ColumnSpan="2" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.667,5,5.333"
+                          Grid.Row="8">
+
+
+                        <TextBlock Text="Agricultural Science"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Margin="0,5,125,-1" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.5,5,5.5"
+                          Grid.Row="9">
+
+
+                        <TextBlock Text="Geography"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   Margin="0,5,125,-1" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+                    </Grid>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,577 @@
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\smartpurse.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\smartpurse.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\resources.pri
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\AppxManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\smartpurse.build.appxrecipe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\AppManifest.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\smartpurse_Debug_AnyCPU.xap
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\App.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\MainPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\smartpurse.g.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\smartpurse.Resources.AppResources.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\smartpurse.csproj.GenerateResource.Cache
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\smartpurse.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\smartpurse.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\priconfig.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\priconfig.xml.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\layout.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\layout.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\resources.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\resources.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\pri.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\pri.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\qualifiers.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\qualifiers.txt.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\ProjectArchitectures.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\MDILProjectFiles.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\smartpurse\smartpurse\obj\Debug\XapCacheFile.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\smartpurse.csprojResolveAssemblyReference.cache
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\HomePage.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\AccountPasswordRetrival.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\AccountVerification.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\BusinessRegistration.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\IndividualRegistration.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Registration.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Transaction.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\smartpurse.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\smartpurse.pdb
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\resources.pri
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\AppxManifest.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\smartpurse.build.appxrecipe
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\System.Net.Http.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\System.Net.Http.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\App.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\AccountPasswordRetrival.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\AccountVerification.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\BusinessRegistration.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Checkin.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\DisplayQrCode.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\HomePage.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\IndividualRegistration.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Login.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\MainPage.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Payment.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Recieve.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Registration.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\ScanQrCode.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Transaction.g.cs
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\smartpurse.g.resources
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\smartpurse.Resources.AppResources.resources
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\smartpurse.csproj.GenerateResource.Cache
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\smartpurse.dll
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\smartpurse.pdb
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http.pri
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\priconfig.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\priconfig.xml.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\layout.resfiles
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\layout.resfiles.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\resources.resfiles
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\resources.resfiles.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\pri.resfiles
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\pri.resfiles.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\qualifiers.txt
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\ProjectArchitectures.txt
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\AppManifest.xaml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\Bin\Debug\smartpurse_Debug_AnyCPU.xap
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\MDILProjectFiles.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\XapCacheFile.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\smartpurse.csprojResolveAssemblyReference.cache
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\Algorithm\Desktop\smartpurse\smartpurse\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\System.Net.Http.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\System.Net.Http.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Checkin.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\DisplayQrCode.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Login.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Payment.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Recieve.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\ScanQrCode.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http.pri
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\smartpurse.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\smartpurse.pdb
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\resources.pri
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\AppxManifest.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\smartpurse.build.appxrecipe
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\AppManifest.xaml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\smartpurse_Debug_AnyCPU.xap
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\NdefLibrary.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\NdefLibraryWp.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\App.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\AccountPasswordRetrival.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\AccountVerification.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\BusinessRegistration.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Checkin.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\DisplayQrCode.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\HomePage.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\IndividualRegistration.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Login.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\MainPage.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Payment.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Recieve.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Registration.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\ScanQrCode.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Transaction.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.g.resources
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.Resources.AppResources.resources
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.csproj.GenerateResource.Cache
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.pdb
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\en\NdefLibrary.Ndef.NdefExceptionMessages.resw
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary.pri
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\qualifiers.txt
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http.pri
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\priconfig.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\priconfig.xml.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\layout.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\layout.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\resources.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\resources.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\pri.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\pri.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\qualifiers.txt
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\ProjectArchitectures.txt
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\MDILProjectFiles.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\XapCacheFile.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\zxing.wp8.0.dll
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\zxing.wp8.0.pdb
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\Bin\Debug\zxing.wp8.0.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.csprojResolveAssemblyReference.cache
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Account.g.cs
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\layout.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\layout.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\Resources.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\Resources.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\pri.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\pri.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\priconfig.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\priconfig.xml.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\Algorithm\Desktop\new\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\smartpurse.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\smartpurse.pdb
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\resources.pri
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\AppxManifest.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\smartpurse.build.appxrecipe
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\AppManifest.xaml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\smartpurse_Debug_AnyCPU.xap
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\NdefLibrary.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\NdefLibraryWp.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\zxing.wp8.0.pdb
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\zxing.wp8.0.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.csprojResolveAssemblyReference.cache
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\App.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Account.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\AccountPasswordRetrival.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\AccountVerification.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\BusinessRegistration.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Checkin.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\DisplayQrCode.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\HomePage.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\IndividualRegistration.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Login.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\MainPage.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Payment.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Recieve.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Registration.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\ScanQrCode.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Transaction.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.g.resources
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.Resources.AppResources.resources
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.csproj.GenerateResource.Cache
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\smartpurse.pdb
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\en\NdefLibrary.Ndef.NdefExceptionMessages.resw
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\layout.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\layout.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\Resources.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\Resources.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\pri.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\pri.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\priconfig.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary.pri
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\NdefLibrary\qualifiers.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http.pri
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\priconfig.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\layout.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\layout.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\resources.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\resources.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\pri.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\pri.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\qualifiers.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\ProjectArchitectures.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\MDILProjectFiles.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\smartpurse\smartpurse\smartpurse\obj\Debug\XapCacheFile.xml

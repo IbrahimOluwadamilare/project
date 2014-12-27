@@ -1,0 +1,153 @@
+﻿<phone:PhoneApplicationPage x:Class="converter.MainPage"
+                            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            mc:Ignorable="d"
+                            Loaded="PhoneApplicationPage_Loaded"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            SupportedOrientations="Portrait"
+                            Orientation="Portrait"
+                            shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="None"
+                        ImageSource="/SplashScreenImage.jpg"
+                        Opacity="0.2" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!-- LOCALIZATION NOTE:
+            To localize the displayed strings copy their values to appropriately named
+            keys in the app's neutral language resource file (AppResources.resx) then
+            replace the hard-coded text value between the attributes' quotation marks
+            with the binding clause whose path points to that string name.
+
+            For example:
+
+                Text="{Binding Path=LocalizedResources.ApplicationTitle, Source={StaticResource LocalizedStrings}}"
+
+            This binding points to the template's string resource named "ApplicationTitle".
+
+            Adding supported languages in the Project Properties tab will create a
+            new resx file per language that can carry the translated values of your
+            UI strings. The binding in these examples will cause the value of the
+            attributes to be drawn from the .resx file that matches the
+            CurrentUICulture of the app at run time.
+         -->
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel x:Name="TitlePanel"
+                    Grid.Row="0"
+                    Margin="12,17,0,28">
+            <TextBlock Text="iMetric Converter"
+                       Style="{StaticResource PhoneTextNormalStyle}"
+                       Margin="12,0" />
+            <TextBlock x:Name="Heading"
+                       Text="Distance"
+                       Margin="9,-7,0,0"
+                       Style="{StaticResource PhoneTextTitle1Style}"
+                       Height="104" />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel"
+              Grid.Row="1"
+              Margin="12,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="72*" />
+                <ColumnDefinition />
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="textBlock1"
+                       HorizontalAlignment="Left"
+                       Margin="10,48,0,0"
+                       TextWrapping="Wrap"
+                       Text="Kilometers"
+                       VerticalAlignment="Top"
+                       Height="35"
+                       Width="444"
+                       Style="{StaticResource PhoneTextNormalStyle}"
+                       Grid.ColumnSpan="3" />
+            <TextBlock x:Name="textBlock2"
+                       HorizontalAlignment="Left"
+                       Margin="10,178,0,0"
+                       TextWrapping="Wrap"
+                       Text="Meters"
+                       VerticalAlignment="Top"
+                       Height="35"
+                       Width="444"
+                       Style="{StaticResource ResourceKey=PhoneTextNormalStyle}"
+                       Grid.ColumnSpan="3" />
+            <TextBox x:Name="TextBox2"
+                     HorizontalAlignment="Left"
+                     Height="72"
+                     Margin="8,199,0,0"
+                     TextWrapping="Wrap"
+                     Text=""
+                     InputScope="Number"
+                     VerticalAlignment="Top"
+                     Width="438"
+                     GotFocus="TextBox2_GotFocus"
+                     Grid.ColumnSpan="2" />
+            <TextBox x:Name="TextBox1"
+                     HorizontalAlignment="Left"
+                     Height="72"
+                     Margin="8,70,0,0"
+                     TextWrapping="Wrap"
+                     InputScope="Number"
+                     Text=""
+                     VerticalAlignment="Top"
+                     Width="438"
+                     GotFocus="TextBox1_GotFocus"
+                     Grid.ColumnSpan="2" />
+        </Grid>
+
+
+        <!--Uncomment to see an alignment grid to help ensure your controls are
+            aligned on common boundaries.  The image has a top margin of -32px to
+            account for the System Tray. Set this to 0 (or remove the margin altogether)
+            if the System Tray is hidden.
+
+            Before shipping remove this XAML and the image itself.-->
+        <!--<Image Source="/Assets/AlignmentGrid.png" VerticalAlignment="Top" Height="800" Width="480" Margin="0,-32,0,0" Grid.Row="0" Grid.RowSpan="2" IsHitTestVisible="False" />-->
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsMenuEnabled="True"
+                              IsVisible="True"
+                              Opacity="0.7">
+            <shell:ApplicationBarIconButton Click="Convert_Click"
+                                            IconUri="/Images/sync.png"
+                                            Text="Convert" />
+            <shell:ApplicationBarIconButton Click="Clear_Click"
+                                            IconUri="/Images/delete.png"
+                                            Text="Clear" />
+            <shell:ApplicationBar.MenuItems>
+                <shell:ApplicationBarMenuItem Text="Land Mass"
+                                              Click="ChooseLandMassConvertion_Click" />
+                <shell:ApplicationBarMenuItem Text="Distance"
+                                              Click="ChooseDistanceConvertion_Click" />
+                <shell:ApplicationBarMenuItem Text="Power"
+                                              Click="ChoosePowerConvertion_Click" />
+                <shell:ApplicationBarMenuItem Text="Temperature"
+                                              Click="ChooseTemperatureConvertion_Click" />
+                <shell:ApplicationBarMenuItem Text="Time"
+                                              Click="ChooseTimeConvertion_Click" />
+                <shell:ApplicationBarMenuItem Text="Volume"
+                                              Click="ChooseVolumeConvertion_Click" />
+                <shell:ApplicationBarMenuItem Text="About Us"
+                                              Click="about_Click" />
+            </shell:ApplicationBar.MenuItems>
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

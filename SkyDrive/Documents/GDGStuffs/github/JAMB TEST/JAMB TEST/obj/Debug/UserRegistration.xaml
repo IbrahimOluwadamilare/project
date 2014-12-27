@@ -1,0 +1,153 @@
+﻿<Page x:Class="JAMB_TEST.UserRegistration"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:JAMB_TEST"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d">
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1"
+                             StartPoint="0.5,0">
+            <GradientStop Color="#FF26B5C3"
+                          Offset="0" />
+            <GradientStop Color="#FF2143DC"
+                          Offset="1" />
+        </LinearGradientBrush>
+    </Page.Background>
+
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25*" />
+                <RowDefinition Height="75*" />
+            </Grid.RowDefinitions>
+            <StackPanel x:Name="Title_Block"
+                        Grid.Row="0">
+                <TextBlock x:Name="Application_Name"
+                           Text="Pre JAMB Test Solution"
+                           Margin="30,5,5,5"
+                           FontSize="20"
+                           FontFamily="Adobe Caslon Pro" />
+                <StackPanel Orientation="Horizontal"
+                            Height="60">
+                    <TextBlock x:Name="Welcome_Message"
+                               Text="User Registeration"
+                               Margin="30,17,5,5"
+                               Style="{StaticResource TitleTextBlockStyle}"
+                               FontFamily="Adobe Caslon Pro"
+                               FontSize="35" />
+                    <Image Source="/Assets/Pencil.png"
+                           Margin="0,0,0,-6"
+                           Stretch="None"
+                           Height="58"
+                           Width="93" />
+                </StackPanel>
+                <TextBlock x:Name="Intro_Text"
+                           Text="Please carefully fill in the form below:"
+                           TextWrapping="Wrap"
+                           Margin="30,10,5,10"
+                           FontSize="20"
+                           FontFamily="Adobe Caslon Pro" />
+
+            </StackPanel>
+            <Grid Grid.Row="1">
+                <StackPanel Orientation="Vertical">
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30*" />
+                            <RowDefinition Height="30*" />
+                            <RowDefinition Height="30*" />
+                            <RowDefinition Height="30*" />
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="40*" />
+                            <ColumnDefinition Width="60*" />
+                        </Grid.ColumnDefinitions>
+
+                        <TextBlock x:Name="label"
+                                   Text="Name"
+                                   FontSize="20"
+                                   FontFamily="Adobe Caslon Pro"
+                                   Height="44"
+                                   Grid.Column="0"
+                                   Margin="30,16,214,4"
+                                   Grid.ColumnSpan="2" />
+                        <TextBox HorizontalAlignment="Left"
+                                 VerticalAlignment="Top"
+                                 Width="273"
+                                 InputScope="AlphanumericFullWidth"
+                                 Grid.ColumnSpan="2"
+                                 Margin="117,9,0,0" />
+
+                        <TextBlock x:Name="label2"
+                                   Text="Email"
+                                   FontSize="20"
+                                   FontFamily="Adobe Caslon Pro"
+                                   Height="44"
+                                   Grid.Column="0"
+                                   Margin="30,16,214,4"
+                                   Grid.Row="1"
+                                   Grid.ColumnSpan="2" />
+                        <TextBox HorizontalAlignment="Left"
+                                 VerticalAlignment="Top"
+                                 Width="273"
+                                 InputScope="EmailSmtpAddress"
+                                 Grid.ColumnSpan="2"
+                                 Margin="117,9,0,0"
+                                 Grid.Row="1"/>
+                        <TextBlock x:Name="label3"
+                                   Text="Phone No"
+                                   FontSize="20"
+                                   FontFamily="Adobe Caslon Pro"
+                                   Height="44"
+                                   Grid.Column="0"
+                                   Margin="30,16,214,4"
+                                   Grid.Row="2"
+                                   Grid.ColumnSpan="2" />
+                        <TextBox HorizontalAlignment="Left"
+                                 VerticalAlignment="Top"
+                                 Width="273"
+                                 InputScope="TelephoneNumber"
+                                 Grid.ColumnSpan="2"
+                                 Margin="117,9,0,0"
+                                 Grid.Row="2" />
+                    </Grid>
+                </StackPanel>
+                <Button Content="Submit"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        Margin="65,218,0,0"
+                        Background="#FF3182C1"
+                        Width="289" />
+                <Button Content="Reset"
+                        HorizontalAlignment="Left"
+                        VerticalAlignment="Top"
+                        Margin="65,277,0,0"
+                        Background="#FF3182C1"
+                        Width="289" />
+
+            </Grid>
+
+        </Grid>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF288EAC">
+            <AppBarButton x:ConnectionId='1' x:Uid="AddAppBarButton3"
+                          x:Name="AddAppBarButton3"
+                          Label="Clear"
+                          Icon="Clear"
+                                        />
+            <AppBarButton x:ConnectionId='2' x:Uid="AddAppBarButton2"
+                          x:Name="AddAppBarButton2"
+                          Label="Submit"
+                          Icon="Send"
+                                        />
+            <AppBarButton x:ConnectionId='3' x:Uid="AddAppBarButton"
+                          x:Name="AddAppBarButton"
+                          Label="About"
+                          Icon="Help"
+                                        />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

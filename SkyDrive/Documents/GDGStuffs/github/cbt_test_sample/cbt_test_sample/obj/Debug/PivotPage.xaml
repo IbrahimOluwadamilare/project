@@ -1,0 +1,363 @@
+﻿<Page x:Class="cbt_test_sample.PivotPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:cbt_test_sample"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:data="using:cbt_test_sample.Data"
+      mc:Ignorable="d">
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1"
+                             StartPoint="0.5,0">
+            <GradientStop Color="#FF3388EE"
+                          Offset="0" />
+            <GradientStop Color="#FF423AE4"
+                          Offset="1" />
+        </LinearGradientBrush>
+    </Page.Background>
+    <Page.Transitions>
+        <TransitionCollection>
+            <NavigationThemeTransition>
+                <NavigationThemeTransition.DefaultNavigationTransitionInfo>
+                    <CommonNavigationTransitionInfo IsStaggeringEnabled="True" />
+                </NavigationThemeTransition.DefaultNavigationTransitionInfo>
+            </NavigationThemeTransition>
+        </TransitionCollection>
+    </Page.Transitions>
+
+    <Grid>
+
+        <Pivot Title="Pre JAMB CBT Exam"
+               x:Name="pivot"
+               CommonNavigationTransitionInfo.IsStaggerElement="True"
+               Margin="0,12,0,0">
+            <!--Pivot item one-->
+            <PivotItem Header="Question1"
+                       CommonNavigationTransitionInfo.IsStaggerElement="True"
+                       Margin="19,10,19,-0.167">
+
+
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="60" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <!--TitlePanel contains the name of the application and page title-->
+                    <StackPanel x:Name="TitlePanelq1"
+                                Margin="0,-18,0,0"
+                                Orientation="Horizontal">
+
+                        <!--the correct answers check-->
+
+                        <!-- <TextBlock Height="30"
+                                   HorizontalAlignment="Left"
+                                   Name="txtCorrectImages"
+                                   Text="Correct: "
+                                   VerticalAlignment="Top"
+                                   Width="200"
+                                   TextAlignment="Center"
+                                   FontSize="20"
+                                   TextWrapping="Wrap"
+                                   Foreground="White" />  -->
+
+                        <TextBlock Height="34"
+                                   Name="txtTimerq1"
+                                   Text="Time Left:"
+                                   Width="200"
+                                   TextAlignment="Justify"
+                                   FontSize="20"
+                                   TextWrapping="Wrap" />
+                    </StackPanel>
+
+                    <Grid x:Name="ContentPanelq1"
+                          Margin="0,0,0,31.5"
+                          Grid.Row="1"
+                          Background="White">
+
+                        <TextBlock Height="127"
+                                   HorizontalAlignment="Left"
+                                   Margin="10,2,0,0"
+                                   Name="txtQuestionq1"
+                                   Text="What is the area of a circle with radius 5cm? "
+                                   VerticalAlignment="Top"
+                                   Width="342"
+                                   TextAlignment="Justify"
+                                   FontSize="19"
+                                   TextWrapping="Wrap"
+                                   Foreground="#FF6F6F6F"
+                                   FontStyle="Italic" />
+
+                    </Grid>
+                    <Grid x:Name="Conten2"
+                          Margin="0,0,0,31.5"
+                          Grid.Row="2"
+                          Background="{ThemeResource AppBarItemDisabledForegroundThemeBrush}">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50*" />
+                            <RowDefinition Height="50*" />
+                        </Grid.RowDefinitions>
+                        <StackPanel Orientation="Horizontal">
+                            <RadioButton Content="A: 500cm2"
+                                         HorizontalAlignment="Left"
+                                         Margin="10,7,0,0"
+                                         VerticalAlignment="Top"
+                                         GroupName="group1" />
+                            <RadioButton Content="B: 78.57cm2"
+                                         HorizontalAlignment="Left"
+                                         Margin="10,7,0,0"
+                                         GroupName="group1"
+                                         VerticalAlignment="Top" />
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal"
+                                    Grid.Row="1">
+                            <RadioButton Content="C: 100cm2"
+                                         HorizontalAlignment="Left"
+                                         Margin="10,7,0,0"
+                                         GroupName="group1"
+                                         VerticalAlignment="Top" />
+                            <RadioButton Content="D: 31.42cm2"
+                                         HorizontalAlignment="Left"
+                                         Margin="10,7,0,0"
+                                         GroupName="group1"
+                                         VerticalAlignment="Top" />
+                        </StackPanel>
+                    </Grid>
+                </Grid>
+
+            </PivotItem>
+
+            <!--Pivot item two-->
+            <PivotItem Header="Question 2">
+                <!--Double line list no text wrapping-->
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <!--TitlePanel contains the name of the application and page title-->
+                    <StackPanel x:Name="TitlePanelq2"
+                                Margin="0,-18,0,0"
+                                Orientation="Horizontal">
+
+                        <!--the correct answers check-->
+
+                        <!-- <TextBlock Height="30"
+                                   HorizontalAlignment="Left"
+                                   Name="txtCorrectImages"
+                                   Text="Correct: "
+                                   VerticalAlignment="Top"
+                                   Width="200"
+                                   TextAlignment="Center"
+                                   FontSize="20"
+                                   TextWrapping="Wrap"
+                                   Foreground="White" />  -->
+
+                        <TextBlock Height="34"
+                                   Name="txtTimerq2"
+                                   Text="Time Left:"
+                                   Width="200"
+                                   TextAlignment="Justify"
+                                   FontSize="20"
+                                   TextWrapping="Wrap" />
+                    </StackPanel>
+
+                    <Grid x:Name="ContentPanelq2"
+                          Margin="-20,0,-20,0"
+                          Grid.Row="1"
+                          Background="White">
+
+                        <TextBlock Height="127"
+                                   HorizontalAlignment="Left"
+                                   Margin="20,18,0,0"
+                                   Name="txtQuestionq2"
+                                   Text="Solve for the Value of x in the equation 2x + 10 = 25 ? "
+                                   VerticalAlignment="Top"
+                                   Width="359"
+                                   TextAlignment="Justify"
+                                   FontSize="20"
+                                   TextWrapping="Wrap"
+                                   Foreground="#FF6F6F6F"
+                                   FontStyle="Italic" />
+                        <Button x:ConnectionId='5' Content="A: 5"
+                                HorizontalAlignment="Left"
+                                Margin="20,137,0,199"
+                                Name="btnAq2"
+                                Width="359"
+                                                    
+                                Foreground="White"
+                                Background="#FF3182C1"
+                                BorderBrush="White"
+                                BorderThickness="0"
+                                Height="72" />
+                        <Button x:ConnectionId='6' Content="B: 15"
+                                Height="72"
+                                HorizontalAlignment="Left"
+                                Margin="20,194,0,0"
+                                Name="btnBq2"
+                                VerticalAlignment="Top"
+                                Width="359"
+                                                        
+                                Foreground="White"
+                                Background="#FF3182C1"
+                                BorderThickness="0"
+                                RenderTransformOrigin="0.5,0.5" />
+                        <Button x:ConnectionId='7' Content="C: 10"
+                                Height="72"
+                                HorizontalAlignment="Left"
+                                Margin="20,252,0,0"
+                                Name="btnCq2"
+                                VerticalAlignment="Top"
+                                Width="359"
+                                                    
+                                Foreground="White"
+                                Background="#FF3182C1"
+                                BorderBrush="White"
+                                BorderThickness="0" />
+                        <Button x:ConnectionId='8' Content="D: 25"
+                                Height="72"
+                                HorizontalAlignment="Left"
+                                Margin="20,308,0,0"
+                                Name="btnDq2"
+                                VerticalAlignment="Top"
+                                Width="359"
+                                                    
+                                Foreground="White"
+                                Background="#FF3182C1"
+                                BorderBrush="White"
+                                BorderThickness="0" />
+                    </Grid>
+                </Grid>
+            </PivotItem>
+
+            <!--Pivot item three-->
+            <PivotItem  Header="Question 3">
+                <!--Double line list no text wrapping-->
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <!--TitlePanel contains the name of the application and page title-->
+                    <StackPanel x:Name="TitlePanelq3"
+                                Margin="0,-18,0,0"
+                                Orientation="Horizontal">
+
+                        <!--the correct answers check-->
+
+                        <!-- <TextBlock Height="30"
+                                   HorizontalAlignment="Left"
+                                   Name="txtCorrectImages"
+                                   Text="Correct: "
+                                   VerticalAlignment="Top"
+                                   Width="200"
+                                   TextAlignment="Center"
+                                   FontSize="20"
+                                   TextWrapping="Wrap"
+                                   Foreground="White" />  -->
+
+                        <TextBlock Height="34"
+                                   Name="txtTimerq3"
+                                   Text="Time Left:"
+                                   Width="200"
+                                   TextAlignment="Justify"
+                                   FontSize="20"
+                                   TextWrapping="Wrap" />
+                    </StackPanel>
+
+                    <Grid x:Name="ContentPanelq3"
+                          Margin="-20,0,-20,0"
+                          Grid.Row="1"
+                          Background="White">
+
+                        <TextBlock Height="127"
+                                   HorizontalAlignment="Left"
+                                   Margin="20,18,0,0"
+                                   Name="txtQuestionq3"
+                                   Text="Solve for x and y in the simultaneous equation below: 3x + 10y= 25, x + y = 10 ? "
+                                   VerticalAlignment="Top"
+                                   Width="359"
+                                   TextAlignment="Justify"
+                                   FontSize="20"
+                                   TextWrapping="Wrap"
+                                   Foreground="#FF6F6F6F"
+                                   FontStyle="Italic" />
+                        <Button x:ConnectionId='1' Content="A: x = 5/12 , y = 15/10"
+                                HorizontalAlignment="Left"
+                                Margin="20,141,0,208"
+                                Name="btnAq3"
+                                Width="359"
+                                                    
+                                Foreground="White"
+                                Background="#FF3182C1"
+                                BorderBrush="White"
+                                BorderThickness="0"
+                                Height="72" />
+                        <Button x:ConnectionId='2' Content="B:  x = 15/10 , y = 5/12"
+                                Height="72"
+                                HorizontalAlignment="Left"
+                                Margin="20,192,0,0"
+                                Name="btnBq3"
+                                VerticalAlignment="Top"
+                                Width="359"
+                                                        
+                                Foreground="White"
+                                Background="#FF3182C1"
+                                BorderThickness="0"
+                                RenderTransformOrigin="0.5,0.5" />
+                        <Button x:ConnectionId='3' Content="C:  x = 5/10 , y = 5/10"
+                                Height="72"
+                                HorizontalAlignment="Left"
+                                Margin="20,248,0,0"
+                                Name="btnCq3"
+                                VerticalAlignment="Top"
+                                Width="359"
+                                                    
+                                Foreground="White"
+                                Background="#FF3182C1"
+                                BorderBrush="White"
+                                BorderThickness="0" />
+                        <Button x:ConnectionId='4' Content="D:  x = 4/12 , y = 1/10"
+                                Height="72"
+                                HorizontalAlignment="Left"
+                                Margin="20,306,0,0"
+                                Name="btnDq3"
+                                VerticalAlignment="Top"
+                                Width="359"
+                                                    
+                                Foreground="White"
+                                Background="#FF3182C1"
+                                BorderBrush="White"
+                                BorderThickness="0" />
+                    </Grid>
+                </Grid>
+            </PivotItem>
+        </Pivot>
+    </Grid>
+
+    <Page.BottomAppBar>
+        <CommandBar Foreground="Azure">
+            <!-- <AppBarButton x:Uid="previousAppBarButton"
+                              x:Name="previousAppBarButton"
+                              Label="Previous"
+                              Icon="Previous"
+                              Click="previousAppBarButton_Click" />
+                <AppBarButton x:Uid="nextAppBarButton"
+                          x:Name="nextAppBarButton"
+                          Label="Next"
+                          Icon="Next"
+                          Click="nextAppBarButton_Click" /> -->
+            <AppBarButton x:ConnectionId='9' x:Uid="submitAppBarButton"
+                          x:Name="submitAppBarButton"
+                          Label="Submit"
+                          Icon="Go"
+                                         />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

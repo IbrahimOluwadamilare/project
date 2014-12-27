@@ -1,0 +1,275 @@
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\EasyPay.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\EasyPay.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\resources.pri
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\AppxManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\EasyPay.build.appxrecipe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\AppManifest.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\EasyPay_Debug_AnyCPU.xap
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\App.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\MainPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\EasyPay.g.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\EasyPay.Resources.AppResources.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\EasyPay.csproj.GenerateResource.Cache
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\EasyPay.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\EasyPay.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\priconfig.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\priconfig.xml.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\layout.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\layout.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\resources.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\resources.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\pri.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\pri.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\qualifiers.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\qualifiers.txt.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\ProjectArchitectures.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\MDILProjectFiles.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\XapCacheFile.xml
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Registration.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Individual_registration.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Business_registration.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Home.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Payment.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Receive.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Checkin.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\EasyPay.csprojResolveAssemblyReference.cache
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\About.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Account_password_retrival.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\EasyPay.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\EasyPay.pdb
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\resources.pri
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\AppxManifest.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\EasyPay.build.appxrecipe
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\AppManifest.xaml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\EasyPay_Debug_AnyCPU.xap
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\System.Net.Http.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\System.Net.Http.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\App.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\About.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Account_password_retrival.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Business_registration.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Checkin.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Home.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Individual_registration.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\MainPage.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Payment.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Receive.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Registration.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\EasyPay.g.resources
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\EasyPay.Resources.AppResources.resources
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\EasyPay.csproj.GenerateResource.Cache
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\EasyPay.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\EasyPay.pdb
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http.pri
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\priconfig.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\priconfig.xml.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\layout.resfiles
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\layout.resfiles.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\resources.resfiles
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\resources.resfiles.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\pri.resfiles
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\pri.resfiles.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\qualifiers.txt
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\ProjectArchitectures.txt
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\MDILProjectFiles.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\XapCacheFile.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\AccountVerification.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\zxing.wp8.0.dll
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\zxing.wp8.0.pdb
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\Bin\Debug\zxing.wp8.0.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\DisplayQR.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\ScanQR.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\EasyPay.csprojResolveAssemblyReference.cache
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Transaction.g.cs
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\Algorithm\SkyDrive\EasyPay\EasyPay\obj\Debug\System.Net.Http\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\AccountVerification.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\DisplayQR.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\ScanQR.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Transaction.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\System.Net.Http.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Microsoft.WindowsAzure.Mobile.UI.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\System.Net.Http.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\en-US\Microsoft.WindowsAzure.MobileServices.Resources.resw
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile.pri
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\qualifiers.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http.pri
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\qualifiers.txt
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\layout.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\Resources.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\pri.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\Microsoft.WindowsAzure.Mobile\priconfig.xml.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\layout.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\layout.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\Resources.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\Resources.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\pri.resfiles
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\pri.resfiles.intermediate
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\priconfig.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\EasyPay\EasyPay\obj\Debug\System.Net.Http\priconfig.xml.intermediate

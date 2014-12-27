@@ -1,0 +1,22 @@
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Assets\ApplicationIcon.png
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Church App.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Church App.pdb
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\AppManifest.xaml
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Properties\WMAppManifest.xml
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\Bin\Debug\Church_App_Debug_AnyCPU.xap
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\App.g.cs
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\about.g.cs
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\DetailsPage.g.cs
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\MainPage.g.cs
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\Welcome.g.cs
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\Church App.g.resources
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\Church_App.Resources.AppResources.resources
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\Church App.csproj.GenerateResource.Cache
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\Church App.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\Church App.pdb
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church App\Church App\obj\Debug\XapCacheFile.xml

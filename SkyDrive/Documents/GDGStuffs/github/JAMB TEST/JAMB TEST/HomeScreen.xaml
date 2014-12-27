@@ -1,0 +1,263 @@
+﻿<Page x:Class="JAMB_TEST.HomeScreen"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:JAMB_TEST"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d">
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1"
+                             StartPoint="0.5,0">
+            <GradientStop Color="#FF26B5C3"
+                          Offset="0" />
+            <GradientStop Color="#FF2143DC"
+                          Offset="1" />
+        </LinearGradientBrush>
+    </Page.Background>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30*" />
+            <RowDefinition Height="70*" />
+        </Grid.RowDefinitions>
+        <StackPanel x:Name="Title_Block"
+                    Grid.Row="0">
+            <TextBlock x:Name="Application_Name"
+                       Text="Pre JAMB Test Solution"
+                       Margin="30,5,5,5"
+                       FontSize="20"
+                       FontFamily="Adobe Caslon Pro" />
+            <StackPanel Orientation="Horizontal">
+                <TextBlock x:Name="Welcome_Message"
+                           Text="Home"
+                           Margin="30,5,5,5"
+                           Style="{StaticResource TitleTextBlockStyle}"
+                           FontFamily="Adobe Caslon Pro"
+                           FontSize="70" />
+                <Image Source="/Assets/Pencil.png"
+                       Margin="30,0,0,-6"
+                       Stretch="None"
+                       Height="58"
+                       Width="93" />
+            </StackPanel>
+            <TextBlock x:Name="Intro_Text"
+                       Text="Please Choose your Choice Course to be tested on from the list of courses below:"
+                       TextWrapping="Wrap"
+                       Margin="30,10,5,10"
+                       FontSize="20"
+                       FontFamily="Adobe Caslon Pro" />
+
+        </StackPanel>
+
+        <Grid x:Name="Main_Content"
+              Grid.Row="1">
+            <ScrollViewer IsEnabled="True"
+                          VerticalScrollBarVisibility="Hidden"
+                          HorizontalScrollBarVisibility="Auto">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="60*" />
+                        <ColumnDefinition Width="40*" />
+                    </Grid.ColumnDefinitions>
+                    <!--this block contains the longlist of all subjects in the application-->
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,5,5,5" Tapped="Mathematics">
+
+
+                        <TextBlock Text="Mathematics"
+                                   Grid.Row="0"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.833,5,5.167"
+                          Grid.Row="1" Tapped="English">
+
+
+                        <TextBlock Text="English"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.667,5,5.333"
+                          Grid.Row="2"
+                          Tapped="Chemistry">
+
+
+                        <TextBlock Text="Chemistry"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,5.5,5,4.5"
+                          Grid.Row="3"
+                          Tapped="Biology">
+
+
+                        <TextBlock Text="Biology"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,5.333,5,4.667"
+                          Grid.Row="4" Tapped="Physics">
+
+
+                        <TextBlock Text="Physics"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,5.167,5,4.833"
+                          Grid.Row="5"
+                          Tapped="Economics">
+
+
+                        <TextBlock Text="Economics"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,5,5,5"
+                          Grid.Row="6"
+                          Tapped="Accounts">
+
+
+                        <TextBlock Text="Accounts"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.833,5,5.167"
+                          Grid.Row="7"
+                          Tapped="Commerce">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="61*" />
+                            <ColumnDefinition Width="13*" />
+                        </Grid.ColumnDefinitions>
+
+
+                        <TextBlock Text="Commerce"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None"
+                               Grid.ColumnSpan="2" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.667,5,5.333"
+                          Grid.Row="8"
+                          Tapped="Agric">
+
+
+                        <TextBlock Text="Agricultural Science"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+
+
+                    </Grid>
+                    <Grid Grid.ColumnSpan="2"
+                          Margin="25,4.5,5,5.5"
+                          Grid.Row="9"
+                          Tapped="Geography">
+
+
+                        <TextBlock Text="Geography"
+                                   Margin="0,13,125,-1"
+                                   FontSize="22"
+                                   FontWeight="Bold"
+                                   FontFamily="Adobe Caslon Pro" />
+                        <Image Source="/Assets/cbt.png"
+                               Margin="260,0,0,-6"
+                               Stretch="None" />
+                    </Grid>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF288EAC">
+            <AppBarButton x:Uid="AddAppBarButton"
+                          x:Name="AddAppBarButton"
+                          Label="About"
+                          Icon="Help"
+                          Click="About" />
+            </CommandBar>
+    </Page.BottomAppBar>
+</Page>

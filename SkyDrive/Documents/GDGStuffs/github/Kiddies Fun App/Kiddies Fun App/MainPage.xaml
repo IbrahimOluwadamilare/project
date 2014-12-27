@@ -1,0 +1,133 @@
+﻿<phone:PhoneApplicationPage xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+                            x:Class="Kiddies_Fun_App.MainPage"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            SupportedOrientations="Portrait"
+                            Orientation="Portrait"
+                            mc:Ignorable="d"
+                            shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="/background.png" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0"
+                    Margin="12">
+            <TextBlock Text="Kiddies Fun Place"
+                       Style="{StaticResource PhoneTextNormalStyle}" />
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="22*" />
+                    <ColumnDefinition Width="80*" />
+                </Grid.ColumnDefinitions>
+            <Image Source="/logo.png"
+                       Stretch="None"
+                   Grid.Column="0"/>
+            <TextBlock Text="Welcome"
+                       Grid.Column="1"
+                       Margin="5"
+                       Style="{StaticResource PhoneTextTitle1Style}" />
+            </Grid>
+            <TextBlock Text="Choose a section"
+                       Style="{StaticResource PhoneTextNormalStyle}" />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel"
+              Grid.Row="1"
+              Margin="12">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="33.3*" />
+                <RowDefinition Height="33.3*" />
+                <RowDefinition Height="33.3*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="60*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Row="0"
+                  Grid.Column="0"
+                  Margin="5">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="60*" />
+                    <ColumnDefinition Width="40*" />
+                </Grid.ColumnDefinitions>
+                <StackPanel VerticalAlignment="Center"
+                            Tap="English_Tap">
+                    <TextBlock Text="English Alphabets"
+                               Visibility="Visible"
+                               Style="{StaticResource JumpListStringStyle}" />
+                    <TextBlock Text="Learn all the letters of the English "
+                               Visibility="Visible"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                    <TextBlock Text="Alphabets with their pronunciation"
+                               Visibility="Visible"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                    <TextBlock Text="Click here to start"
+                               Visibility="Visible"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                </StackPanel>
+                <Image Grid.Column="1"
+                       Margin="12"
+                       Source="/alphabet images/alpha-logo.png" />
+            </Grid>
+
+            <Grid Grid.Row="1"
+                  Grid.Column="0"
+                  Margin="12">
+
+                <StackPanel VerticalAlignment="Center"
+                            Tap="Animal_Tap">
+                    <TextBlock Text="Animal Sounds"
+                               Visibility="Visible"
+                               Style="{StaticResource JumpListStringStyle}" />
+                    <TextBlock Text="Learn various animal sounds"
+                               Visibility="Visible"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                    <TextBlock Text="Simply by listerning to them"
+                               Visibility="Visible"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                    <TextBlock Text="Click here to start"
+                               Visibility="Visible"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                </StackPanel>
+            </Grid>
+
+            <Grid Grid.Row="2"
+                  Grid.Column="0"
+                  Margin="12">
+                <StackPanel VerticalAlignment="Center"
+                            Tap="Nursrey_tap">
+                    <TextBlock Text="Nursery Rhyme"
+                               Visibility="Visible"
+                               Style="{StaticResource JumpListStringStyle}" />
+                    <TextBlock Text="Add your kid's learning ability with"
+                               Visibility="Visible"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                    <TextBlock Text="the Nursery learning aids. "
+                               Visibility="Visible"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                    <TextBlock Text="Click here to start"
+                               Visibility="Visible"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                </StackPanel>
+            </Grid>
+
+
+        </Grid>
+    </Grid>
+</phone:PhoneApplicationPage>

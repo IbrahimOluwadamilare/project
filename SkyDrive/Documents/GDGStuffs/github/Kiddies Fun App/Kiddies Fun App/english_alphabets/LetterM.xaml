@@ -1,0 +1,85 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Kiddies_Fun_App.LetterM"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="/background.png" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0"
+                    Margin="12,17,0,28">
+            <TextBlock Text="Kiddies Fun Palace"
+                       Style="{StaticResource PhoneTextNormalStyle}" />
+            <TextBlock Text="Letter M"
+                       Margin="9,-7,0,0"
+                       Style="{StaticResource PhoneTextTitle1Style}" />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel"
+              Grid.Row="1"
+              Margin="12,0,12,0">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="30*" />
+            </Grid.RowDefinitions>
+            <Image Source="/alphabet images/LetterM.jpg"
+                   Margin="12" />
+            <StackPanel Margin="0,449,0,7"
+                        Grid.RowSpan="2">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="50*" />
+                        <RowDefinition Height="50*" />
+                    </Grid.RowDefinitions>
+                    <TextBlock Name="TextBlock1"
+                               Text="Letter M, M for Mug"
+                               Margin="12,15,0,-69"
+                               Style="{StaticResource JumpListAlphabetStyle}"
+                               FontSize="36"
+                               Grid.Row="1"
+                               HorizontalAlignment="Center" />
+                    <TextBlock x:Name="sample_sentence"
+                               Text="The Mug is on the Table"
+                               Margin="0,60,0,-93"
+                               Style="{StaticResource PhoneTextSubtleStyle}"
+                               FontSize="20"
+                               Grid.Row="1"
+                               HorizontalAlignment="Center"
+                               FontStyle="Italic" />
+                </Grid>
+            </StackPanel>
+
+        </Grid>
+    </Grid>
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsMenuEnabled="True"
+                              IsVisible="True"
+                              Opacity="0.4">
+            <shell:ApplicationBarIconButton IconUri="/transport.play.png"
+                                            IsEnabled="True"
+                                            Text="Play"
+                                            Click="ApplicationBarIconButton_Click" />
+
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+</phone:PhoneApplicationPage>

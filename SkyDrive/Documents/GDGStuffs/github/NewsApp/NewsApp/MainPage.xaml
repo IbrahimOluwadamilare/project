@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="NewsApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NewsApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*" />
+            <RowDefinition Height="80*" />
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" Grid.Row="0">
+            <TextBlock Name="AppTitle"
+                       Text="Geeks Conner"
+                       Margin="25,20,0,0"
+                       FontWeight="ExtraBold"
+                       Style="{StaticResource HeaderTextBlockStyle}" />
+            <TextBlock Name="subTitle"
+                       Text="Bringing the best of tech news to you."
+                       Margin="0,0,0,0"
+                       HorizontalAlignment="Center"
+                       FontWeight="Bold"
+                       Style="{StaticResource ListViewItemSubheaderTextBlockStyle}" />
+        </StackPanel>
+        
+    </Grid>
+</Page>

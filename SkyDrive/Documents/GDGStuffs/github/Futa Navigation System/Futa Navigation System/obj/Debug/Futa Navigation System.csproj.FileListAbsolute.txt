@@ -1,0 +1,35 @@
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Futa Navigation System.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Futa Navigation System.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\resources.pri
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\AppxManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Futa Navigation System.build.appxrecipe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\AppManifest.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\Bin\Debug\Futa_Navigation_System_Debug_AnyCPU.xap
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\App.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\MainPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\Futa Navigation System.g.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\Futa_Navigation_System.Resources.AppResources.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\Futa Navigation System.csproj.GenerateResource.Cache
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\Futa Navigation System.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\Futa Navigation System.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\priconfig.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\priconfig.xml.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\layout.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\layout.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\resources.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\resources.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\pri.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\pri.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\qualifiers.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\qualifiers.txt.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\ProjectArchitectures.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\MDILProjectFiles.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Futa Navigation System\Futa Navigation System\obj\Debug\XapCacheFile.xml

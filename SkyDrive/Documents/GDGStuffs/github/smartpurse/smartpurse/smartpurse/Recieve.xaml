@@ -1,0 +1,180 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="smartpurse.Recieve"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill"
+                        ImageSource="/Resources/splash.png" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="10*" />
+            <RowDefinition Height="11*" />
+            <RowDefinition Height="5*" />
+            <RowDefinition Height="10*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Rectangle HorizontalAlignment="Left"
+                       Height="99"
+                       Stroke="Black"
+                       VerticalAlignment="Top"
+                       Width="480">
+                <Rectangle.Fill>
+                    <LinearGradientBrush EndPoint="0.5,1"
+                                         StartPoint="0.5,0">
+                        <GradientStop Color="Black"
+                                      Offset="0" />
+                        <GradientStop Color="Gray"
+                                      Offset="1" />
+                        <GradientStop Color="#FF6B6B6B"
+                                      Offset="0.839" />
+                    </LinearGradientBrush>
+                </Rectangle.Fill>
+            </Rectangle>
+            <StackPanel Orientation="Vertical">
+                <Image HorizontalAlignment="Left"
+                       VerticalAlignment="Top"
+                       Margin="40,5,0,0"
+                       Source="/Resources/logoinner.png"
+                       Width="391" />
+                <TextBlock TextWrapping="Wrap"
+                           TextAlignment="Center"
+                           Text="Choose your mode of Payment Acceptance"
+                           Margin="10,30,0,0"
+                           Style="{StaticResource JumpListAlphabetSmallStyle}"
+                           FontSize="29.333">
+                    <TextBlock.Foreground>
+                        <LinearGradientBrush EndPoint="0.5,1"
+                                             StartPoint="0.5,0">
+                            <GradientStop Color="#FF1198BF"
+                                          Offset="1" />
+                            <GradientStop Color="White" />
+                        </LinearGradientBrush>
+                    </TextBlock.Foreground>
+                </TextBlock>
+
+            </StackPanel>
+        </Grid>
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="1">
+
+            <Image HorizontalAlignment="Left"
+                   Margin="66,57,0,0"
+                   VerticalAlignment="Top"
+                   Source="/Resources/nfc.png"
+                   Height="143"
+                   Width="162" />
+            <Image HorizontalAlignment="Left"
+                   Margin="52,57,0,0"
+                   VerticalAlignment="Top"
+                   Source="/Resources/qr.png"
+                   Height="143"
+                   Width="141" />
+
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="2">
+            <TextBlock TextWrapping="Wrap"
+                       Text="nfc"
+                       TextAlignment="Center"
+                       Margin="100,0,0,0"
+                       Style="{StaticResource JumpListAlphabetSmallStyle}"
+                       FontSize="35.333">
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1"
+                                         StartPoint="0.5,0">
+                        <GradientStop Color="#FF1198BF"
+                                      Offset="1" />
+                        <GradientStop Color="White" />
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+            <TextBlock TextWrapping="Wrap"
+                       Text="QR-Code"
+                       TextAlignment="Center"
+                       Margin="130,0,0,0"
+                       Style="{StaticResource JumpListAlphabetSmallStyle}"
+                       FontWeight="Bold"
+                       FontSize="35.333">
+                <TextBlock.Foreground>
+                    <LinearGradientBrush EndPoint="0.5,1"
+                                         StartPoint="0.5,0">
+                        <GradientStop Color="#FF1198BF"
+                                      Offset="1" />
+                        <GradientStop Color="White" />
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal"
+                    Grid.Row="3"
+                    Margin="1,-80,0,0">
+            <Button Content="Recieve Payment"
+                    HorizontalAlignment="Left"
+                    Grid.Row="2"
+                    VerticalAlignment="Top"
+                    BorderThickness="0"
+                    Margin="15,33,0,0"
+                    Grid.RowSpan="2"
+                    Width="218"
+                    Height="74"
+                    RenderTransformOrigin="0.5,0.5"
+                    Grid.ColumnSpan="2">
+
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1"
+                                         MappingMode="RelativeToBoundingBox"
+                                         StartPoint="0.5,0">
+                        <GradientStop Color="#FF0FA4C5"
+                                      Offset="0.004" />
+                        <GradientStop Color="#FF057BCD"
+                                      Offset="0.988" />
+                        <GradientStop Color="#FF0FA4C5"
+                                      Offset="0.442" />
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+            <Button x:Name="QRPayBtn"
+            	Content="Recieve Payment"
+            	HorizontalAlignment="Left"
+            	VerticalAlignment="Top"
+            	BorderThickness="0"
+            	Margin="15,33,0,0"
+            	Width="217"
+            	Height="74"
+            	RenderTransformOrigin="0.5,0.5"
+                    >
+
+                <Button.Background>
+                    <LinearGradientBrush EndPoint="0.5,1"
+            			MappingMode="RelativeToBoundingBox"
+            			StartPoint="0.5,0">
+                        <GradientStop Color="#FF0FA4C5"
+                    		Offset="0.004" />
+                        <GradientStop Color="#FF057BCD"
+                    		Offset="0.988" />
+                        <GradientStop Color="#FF0FA4C5"
+                    		Offset="0.442" />
+                    </LinearGradientBrush>
+                </Button.Background>
+            </Button>
+        </StackPanel>
+    </Grid>
+
+
+</phone:PhoneApplicationPage>

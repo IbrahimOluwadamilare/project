@@ -1,0 +1,157 @@
+﻿<phone:PhoneApplicationPage x:Class="Emergency_Response.TerrorPivot"
+                            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            mc:Ignorable="d"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            SupportedOrientations="Portrait"
+                            Orientation="Portrait"
+                            shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot"
+          Background="Transparent">
+        <!--Pivot Control-->
+        <phone:Pivot Name="terrorpivot"
+                     SelectionChanged="terrorpivot_SelectionChanged"
+                     Title="Emergency Alert System (Terror Report)">
+            <!--Pivot item one-->
+            <phone:PivotItem Header="Voice Alert">
+                <StackPanel Orientation="Vertical">
+                <TextBlock Name="txt"
+                           TextAlignment="Left"
+                           Style="{StaticResource PhoneTextSmallStyle}"
+                           FontSize="36"
+                           Foreground="White"
+                           Height="50"
+                           FontWeight="Bold" />
+
+                    <TextBlock Name="txt1"
+                               TextAlignment="Left"
+                               Style="{StaticResource PhoneTextSmallStyle}"
+                               FontSize="36"
+                               Foreground="White"
+                               Height="50"
+                               FontWeight="Bold" />
+                </StackPanel>
+            </phone:PivotItem>
+
+            <!--Pivot item two-->
+            <phone:PivotItem Header="Video Alert">
+                <StackPanel Orientation="Vertical"
+                            Margin="0,-10,0,10">
+
+                    <TextBlock Text="Terror Alert Report"
+                               TextAlignment="Left"
+                               Style="{StaticResource PhoneTextSmallStyle}"
+                               FontSize="36"
+                               Foreground="White"
+                               Height="50"
+                               FontWeight="Bold" />
+
+                    <TextBlock Text="Compose a little message about the Terror incident video you are reporting."
+                               TextAlignment="Left"
+                               TextWrapping="Wrap"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+                    <TextBox HorizontalAlignment="Left"
+                             Height="309"
+                             Margin="0,0,0,0"
+                             TextWrapping="Wrap"
+                             Name="textbox_terror_video"
+                             VerticalAlignment="Top"
+                             Width="456" />
+
+                    <Button Content="Capture Video"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Top"
+                            Width="456"
+                            Height="80" />
+
+                </StackPanel>
+            </phone:PivotItem>
+
+            <!--Pivot item three-->
+            <phone:PivotItem Header="Text Alert">
+                <StackPanel Orientation="Vertical">
+
+                    <TextBlock Text="Terror Alert Report"
+                               TextAlignment="Left"
+                               Style="{StaticResource PhoneTextSmallStyle}"
+                               FontSize="36"
+                               Foreground="White"
+                               Height="50"
+                               FontWeight="Bold" />
+
+                    <TextBlock Text="Compose a little message about the Terror incident you are reporting."
+                               TextAlignment="Left"
+                               TextWrapping="Wrap"
+                               Style="{StaticResource PhoneTextSmallStyle}" />
+
+                    <TextBox HorizontalAlignment="Left"
+                             Height="428"
+                             Margin="0,0,0,0"
+                             TextWrapping="Wrap"
+                             Name="textbox_terror"
+                             VerticalAlignment="Top"
+                             Width="456" />
+
+                </StackPanel>
+            </phone:PivotItem>
+
+            <!--Pivot item four-->
+            <phone:PivotItem Header="No Communication">
+                <Button Content="Send my present Geo-Location"
+                        HorizontalAlignment="Left"
+                        BorderThickness="1"
+                        BorderBrush="Black"
+                        VerticalAlignment="Top"
+                        Background="#FF419BE5"
+                        Height="207"
+                        FontSize="29"
+                        Margin="0,165,0,0"
+                        Click="terror_nocommunication"/>
+            </phone:PivotItem>
+        </phone:Pivot>
+
+    </Grid>
+
+    <phone:PhoneApplicationPage.Resources>
+        <shell:ApplicationBar x:Name="Pivot1ApplicationBar"
+                              IsVisible="True">
+
+            <shell:ApplicationBarIconButton x:Name="AppBarBotton"
+                                            IconUri="/Assets/Tiles/appbar.message.send.png"
+                                            Text="Send"/>
+        </shell:ApplicationBar>
+
+
+        <shell:ApplicationBar x:Name="Pivot2ApplicationBar"
+                              IsVisible="True">
+            <shell:ApplicationBarIconButton IconUri="/Assets/Tiles/appbar.video.send.png"
+                                            Text="Send" />
+
+        </shell:ApplicationBar>
+
+        <shell:ApplicationBar x:Name="Pivot3ApplicationBar"
+                              IsVisible="True">
+            <shell:ApplicationBarIconButton IconUri="/Assets/Tiles/appbar.message.send.png"
+                                            Text="Send" />
+
+        </shell:ApplicationBar>
+
+        <shell:ApplicationBar x:Name="Pivot4ApplicationBar"
+                              IsVisible="True">
+            <shell:ApplicationBarIconButton IconUri="/Assets/Tiles/appbar.message.send.png"
+                                            Text="Send"
+                                            Click="terror_nocommunication" />
+
+        </shell:ApplicationBar>
+
+    </phone:PhoneApplicationPage.Resources>
+
+</phone:PhoneApplicationPage>

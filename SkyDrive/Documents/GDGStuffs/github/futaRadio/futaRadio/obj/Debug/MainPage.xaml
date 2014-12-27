@@ -1,0 +1,137 @@
+﻿<Page x:Class="futaRadio.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:futaRadio"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d"
+      Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*" />
+            <RowDefinition Height="80*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Vertical"
+                    Grid.Row="0">
+            <StackPanel Orientation="Horizontal">
+                <Image HorizontalAlignment="Left"
+                       Height="50"
+                       Margin="20,23,0,0"
+                       Width="51"
+                       Source="Assets/Radio-Access.png" />
+                <TextBlock Text="FUTA RADIO"
+                           Style="{StaticResource HeaderTextBlockStyle}"
+                           Margin="0,27,27,0"
+                           FontFamily="Microsoft Sans Serif"
+                           FontSize="50" />
+
+            </StackPanel>
+
+            <TextBlock Text="....brining you the best of radio broadcasting "
+                       FontFamily="Microsoft Sans Serif"
+                       Margin="27,0,0,0"
+                       Style="{StaticResource ListViewItemSubheaderTextBlockStyle}"
+                       HorizontalAlignment="Center" />
+
+
+        </StackPanel>
+
+
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+                <RowDefinition Height="20*" />
+            </Grid.RowDefinitions>
+
+            <Grid x:ConnectionId='1' Grid.Row="0"                                  >
+                <StackPanel Orientation="Horizontal">
+                    <Image HorizontalAlignment="Left"
+                           Height="70"
+                           Margin="27,0,0,0"
+                           Width="70"
+                           Source="Assets/Radio-Access.png" />
+                    <TextBlock Text="Lunch Station"
+                               VerticalAlignment="Center"
+                               Margin="0,0,20,0"
+                               TextWrapping="Wrap"
+                               Style="{StaticResource ListViewItemTextBlockStyle}"
+                               FontSize="30" />
+                </StackPanel>
+            </Grid>
+            <Grid x:ConnectionId='2' Grid.Row="1"
+                                                   >
+                <StackPanel Orientation="Horizontal">
+                    <Image HorizontalAlignment="Left"
+                           Height="70"
+                           Margin="27,0,0,0"
+                           Width="70"
+                           Source="Assets/Radio-Access.png" />
+                    <TextBlock Text="Station Guide"
+                               VerticalAlignment="Center"
+                               Margin="0,0,20,0"
+                               TextWrapping="Wrap"
+                               Style="{StaticResource ListViewItemTextBlockStyle}"
+                               FontSize="30" />
+                </StackPanel>
+            </Grid>
+            <Grid x:ConnectionId='3' Grid.Row="2"
+                                               >
+                <StackPanel Orientation="Horizontal">
+                    <Image HorizontalAlignment="Left"
+                           Height="70"
+                           Margin="27,0,0,0"
+                           Width="70"
+                           Source="Assets/Radio-Access.png" />
+                    <TextBlock Text="Shout Out"
+                               VerticalAlignment="Center"
+                               Margin="0,0,20,0"
+                               TextWrapping="Wrap"
+                               Style="{StaticResource ListViewItemTextBlockStyle}"
+                               FontSize="30"/>
+                </StackPanel>
+            </Grid>
+            <Grid x:ConnectionId='4' Grid.Row="3"
+                                                 >
+                <StackPanel Orientation="Horizontal">
+                    <Image HorizontalAlignment="Left"
+                           Height="70"
+                           Margin="27,0,0,0"
+                           Width="70"
+                           Source="Assets/Radio-Access.png" />
+                    <TextBlock Text="Latest News"
+                               VerticalAlignment="Center"
+                               Margin="0,0,20,0"
+                               TextWrapping="Wrap"
+                               Style="{StaticResource ListViewItemTextBlockStyle}"
+                               FontSize="30" />
+                </StackPanel>
+            </Grid>
+            <Grid x:ConnectionId='5' Grid.Row="4"
+                                          >
+                <StackPanel Orientation="Horizontal">
+                    <Image HorizontalAlignment="Left"
+                           Height="70"
+                           Margin="27,0,0,0"
+                           Width="70"
+                           Source="Assets/Radio-Access.png" />
+                    <TextBlock Text="Fun"
+                               VerticalAlignment="Center"
+                               Margin="0,0,20,0"
+                               TextWrapping="Wrap"
+                               Style="{StaticResource ListViewItemTextBlockStyle}"
+                               FontSize="30" />
+                </StackPanel>
+            </Grid>
+
+        </Grid>
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>futaRadioApp.dll</File>
+    <File>Assets\appbar.stop.png</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\AppBar\refresh.png</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\image.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\Radio-Access.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\Tiles\appbar.stream.png</File>
+    <File>Assets\Twitter-Bird.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>ReadMe.Coding4Fun.Toolkit.txt</File>
+    <File>Toolkit.Content\ApplicationBar.Cancel.png</File>
+    <File>Toolkit.Content\ApplicationBar.Check.png</File>
+    <File>AppManifest.xaml</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>Coding4Fun.Toolkit.Audio.dll</File>
+    <File>Coding4Fun.Toolkit.Controls.dll</File>
+    <File>Coding4Fun.Toolkit.Net.dll</File>
+    <File>Coding4Fun.Toolkit.Storage.dll</File>
+    <File>Hammock.WindowsPhone.dll</File>
+    <File>ICSharpCode.SharpZipLib.WindowsPhone.dll</File>
+    <File>Microsoft.Phone.Controls.dll</File>
+    <File Type="PCL">Newtonsoft.Json.dll</File>
+    <File>TweetSharp.WindowsPhone.dll</File>
+    <File>Newtonsoft.Json.xml</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

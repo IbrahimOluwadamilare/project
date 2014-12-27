@@ -1,0 +1,378 @@
+﻿<phone:PhoneApplicationPage xmlns:Controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+                            x:Class="Kiddies_Fun_App.Page1"
+                            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            SupportedOrientations="Portrait"
+                            Orientation="Portrait"
+                            mc:Ignorable="d"
+                            shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="/background.png" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0"
+                    Margin="12,17,0,28">
+            <TextBlock Text="Kiddies Fun Place"
+                       Style="{StaticResource PhoneTextNormalStyle}" />
+            <TextBlock Text="English Alphabets"
+                       Margin="8,-7,1,0"
+                       Style="{StaticResource PhoneTextTitle1Style}"
+                       FontSize="58" />
+        </StackPanel>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="List"
+              Background="Transparent"
+              Grid.Row="1">
+            <ScrollViewer VerticalScrollBarVisibility="Hidden"
+                          HorizontalScrollBarVisibility="Auto">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+
+                    <Controls:HubTile  Notification="A"
+                                       Message="Letter A"
+                                       Grid.Column="0"
+                                       Grid.Row="0"
+                                       Background="#FFAC0D6B"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_A" />
+
+                    <Controls:HubTile  Notification="B"
+                                       Message="Letter B  
+                                       B for Ball"
+                                       Grid.Column="1"
+                                       Grid.Row="0"
+                                       Background="#FFE64B1D"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_B" />
+
+                    <Controls:HubTile  Notification="C"
+                                       Message="Letter C  
+                                       C for Cat"
+                                       Grid.Column="2"
+                                       Grid.Row="0"
+                                       Background="#FF1500E5"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_C" />
+
+                    <Controls:HubTile  Notification="D"
+                                       Message="Letter D  
+                                       D for Dog"
+                                       Grid.Column="3"
+                                       Grid.Row="0"
+                                       Background="#FF00E5D0"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_D" />
+
+                    <Controls:HubTile  Notification="E"
+                                       Message="Letter E  
+                                       E for Egg"
+                                       Grid.Column="4"
+                                       Grid.Row="0"
+                                       Background="#FFC600E5"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_E" />
+
+                    <Controls:HubTile  Notification="F"
+                                       Message="Letter F  
+                                       F for Fish"
+                                       Grid.Column="5"
+                                       Grid.Row="0"
+                                       Background="#FF8B1DE6"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_F" />
+
+                    <Controls:HubTile  Notification="G"
+                                       Message="Letter G  
+                                       G for Gate"
+                                       Grid.Column="6"
+                                       Grid.Row="0"
+                                       Background="#FFFBF009"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_G" />
+
+                    <Controls:HubTile  Notification="H"
+                                       Message="Letter H  
+                                       E for Hen"
+                                       Grid.Column="7"
+                                       Grid.Row="0"
+                                       Background="#FF00E57D"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_H" />
+
+                    <Controls:HubTile  Notification="I"
+                                       Message="Letter I  
+                                       I for Iron"
+                                       Grid.Column="8"
+                                       Grid.Row="0"
+                                       Background="#FF7AD111"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_I" />
+
+                    <Controls:HubTile  Notification="J"
+                                       Message="Letter J  
+                                       J for Jug"
+                                       Grid.Column="0"
+                                       Grid.Row="1"
+                                       Background="#FFCE1AEA"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_J" />
+
+                    <Controls:HubTile  Notification="K"
+                                       Message="Letter K  
+                                       K for Kettle"
+                                       Grid.Column="1"
+                                       Grid.Row="1"
+                                       Background="#FF00E568"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_K" />
+
+                    <Controls:HubTile  Notification="L"
+                                       Message="Letter L  
+                                       L for Ladder"
+                                       Grid.Column="2"
+                                       Grid.Row="1"
+                                       Background="#FFAC0D6B"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_L" />
+
+                    <Controls:HubTile  Notification="M"
+                                       Message="Letter M  
+                                       M for Mug"
+                                       Grid.Column="3"
+                                       Grid.Row="1"
+                                       Background="#FF2A2AC7"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_M" />
+
+                    <Controls:HubTile  Notification="N"
+                                       Message="Letter N  
+                                       N for Nose"
+                                       Grid.Column="4"
+                                       Grid.Row="1"
+                                       Background="#FF1DDDE6"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_N" />
+
+                    <Controls:HubTile  Notification="O"
+                                       Message="Letter O  
+                                       O for Orange"
+                                       Grid.Column="5"
+                                       Grid.Row="1"
+                                       Background="#FF758720"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_O" />
+
+                    <Controls:HubTile  Notification="P"
+                                       Message="Letter P  
+                                       P for Pawpaw"
+                                       Grid.Column="6"
+                                       Grid.Row="1"
+                                       Background="#FF0087E5"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_P" />
+
+                    <Controls:HubTile  Notification="Q"
+                                       Message="Letter Q  
+                                       Q for Queen"
+                                       Grid.Column="7"
+                                       Grid.Row="1"
+                                       Background="#FF9417CF"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_Q" />
+
+                    <Controls:HubTile  Notification="R"
+                                       Message="Letter R  
+                                       R for Rabbit"
+                                       Grid.Column="8"
+                                       Grid.Row="1"
+                                       Background="#FF00DBE5"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_R" />
+
+                    <Controls:HubTile  Notification="S"
+                                       Message="Letter S  
+                                       S for Sun"
+                                       Grid.Column="0"
+                                       Grid.Row="2"
+                                       Background="#FFFBF009"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_S" />
+
+                    <Controls:HubTile  Notification="T"
+                                       Message="Letter T  
+                                       T for Table"
+                                       Grid.Column="1"
+                                       Grid.Row="2"
+                                       Background="#FF00DBE5"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_T" />
+
+                    <Controls:HubTile  Notification="U"
+                                       Message="Letter U  
+                                       U for Umbrella"
+                                       Grid.Column="2"
+                                       Grid.Row="2"
+                                       Background="#FFEE2410"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_U" />
+
+                    <Controls:HubTile  Notification="V"
+                                       Message="Letter V  
+                                       V for Van"
+                                       Grid.Column="3"
+                                       Grid.Row="2"
+                                       Background="#FFE64B1D"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_V" />
+
+                    <Controls:HubTile  Notification="W"
+                                       Message="Letter W  
+                                       W for Window"
+                                       Grid.Column="4"
+                                       Grid.Row="2"
+                                       Background="#FF49EA1A"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_W" />
+
+                    <Controls:HubTile  Notification="X"
+                                       Message="Letter X  
+                                       X for Xylophone"
+                                       Grid.Column="5"
+                                       Grid.Row="2"
+                                       Background="#FF1F1A8F"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_X" />
+
+                    <Controls:HubTile  Notification="Y"
+                                       Message="Letter Y  
+                                       Y for Yam"
+                                       Grid.Column="6"
+                                       Grid.Row="2"
+                                       Background="#FF1209D1"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_Y" />
+
+                    <Controls:HubTile  Notification="Z"
+                                       Message="Letter Z  
+                                       Z for Zebra"
+                                       Grid.Column="7"
+                                       Grid.Row="2"
+                                       Background="#FFEEE30C"
+                                       FontSize="48"
+                                       FontWeight="Bold"
+                                       FontFamily="Segoe WP Black"
+                                       Margin="12"
+                                       Tap="HubTile_Tap_Z" />
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+
+
+</phone:PhoneApplicationPage>

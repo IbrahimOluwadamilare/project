@@ -1,0 +1,7 @@
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\mvvm\veiwmodel\obj\Debug\veiwmodel.csprojResolveAssemblyReference.cache
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\mvvm\veiwmodel\Bin\Debug\veiwmodel.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\mvvm\veiwmodel\Bin\Debug\veiwmodel.pdb
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\mvvm\veiwmodel\Bin\Debug\model.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\mvvm\veiwmodel\Bin\Debug\model.pdb
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\mvvm\veiwmodel\obj\Debug\veiwmodel.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\mvvm\veiwmodel\obj\Debug\veiwmodel.pdb

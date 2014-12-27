@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OLUWADAMILARE</Machine>
+    <WindowsUser>Oluwadamilare Ib</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d7669589-4e4c-47b6-a81f-495cd1d32688</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\bin\Debug\Tourisim 9ja.WindowsPhone.exe">
+      <PackagePath>Tourisim 9ja.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\Assets\tourism.png">
+      <PackagePath>Assets\tourism.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\bin\Debug\Tourisim 9ja.WindowsPhone.xr.xml">
+      <PackagePath>Tourisim 9ja.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Tourisim 9ja\Tourisim 9ja\Tourisim 9ja.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

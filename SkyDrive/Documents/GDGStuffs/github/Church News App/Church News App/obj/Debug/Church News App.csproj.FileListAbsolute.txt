@@ -1,0 +1,21 @@
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Church News App.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Church News App.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\AppManifest.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\Bin\Debug\Church_News_App_Debug_AnyCPU.xap
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\obj\Debug\App.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\obj\Debug\DetailsPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\obj\Debug\MainPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\obj\Debug\Church News App.g.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\obj\Debug\Church_News_App.Resources.AppResources.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\obj\Debug\Church News App.csproj.GenerateResource.Cache
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\obj\Debug\Church News App.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\obj\Debug\Church News App.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Church News App\Church News App\obj\Debug\XapCacheFile.xml
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\Church News App\Church News App\obj\Debug\Welcome.g.cs

@@ -1,0 +1,52 @@
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Emergency Response.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Emergency Response.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\resources.pri
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\AppxManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Emergency Response.build.appxrecipe
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\AppManifest.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Emergency_Response_Debug_AnyCPU.xap
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\App.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\MainPage.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\Emergency Response.g.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\Emergency_Response.Resources.AppResources.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\Emergency Response.csproj.GenerateResource.Cache
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\Emergency Response.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\Emergency Response.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\priconfig.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\priconfig.xml.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\layout.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\layout.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\resources.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\resources.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\pri.resfiles
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\pri.resfiles.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\qualifiers.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\qualifiers.txt.intermediate
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\ProjectArchitectures.txt
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\MDILProjectFiles.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\XapCacheFile.xml
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\Emergency Response.csprojResolveAssemblyReference.cache
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\ReportPivots\EarthquakePivot.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\ReportPivots\FloodPivot.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\ReportPivots\AccidentPivot.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\EmergencyCategories.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\ReportPivots\FirePivot.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\ReportPivots\KidnapPivot.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\ReportPivots\RobberyPivot.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\ReportPivots\TerrorPivot.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\EmerCategories\AccidentReportMode.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\EmerCategories\EarthquakeReportMode.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\EmerCategories\FireReportMode.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\EmerCategories\FloodReportMode.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\EmerCategories\KidnapReportMode.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\EmerCategories\RobberyReportMode.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\obj\Debug\EmerCategories\TerrorReportMode.g.cs
+C:\Users\Oluwadamilare Ib\documents\visual studio 2013\Projects\Emergency Response\Emergency Response\Bin\Debug\Microsoft.Phone.Controls.dll

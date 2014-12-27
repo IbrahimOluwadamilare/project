@@ -1,0 +1,19 @@
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\imedic disease list.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\imedic disease list.pdb
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\AppManifest.xaml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\Bin\Debug\imedic_disease_list_Debug_AnyCPU.xap
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\obj\Debug\App.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\obj\Debug\MainPage.g.cs
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\obj\Debug\imedic disease list.g.resources
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\obj\Debug\imedic_disease_list.Resources.AppResources.resources
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\obj\Debug\imedic disease list.csproj.GenerateResource.Cache
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\obj\Debug\imedic disease list.dll
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\obj\Debug\imedic disease list.pdb
+C:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\imedic\imedic disease list\obj\Debug\XapCacheFile.xml

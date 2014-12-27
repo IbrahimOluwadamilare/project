@@ -1,0 +1,46 @@
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\TTS App.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\TTS App.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\AppManifest.xaml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\Bin\Debug\TTS_App_Debug_AnyCPU.xap
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\obj\Debug\App.g.cs
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\obj\Debug\TTS App.g.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\obj\Debug\TTS_App.Resources.AppResources.resources
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\obj\Debug\TTS App.csproj.GenerateResource.Cache
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\obj\Debug\TTS App.dll
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\obj\Debug\TTS App.pdb
+c:\users\oluwadamilare ib\documents\visual studio 2013\Projects\TTS App\TTS App\obj\Debug\XapCacheFile.xml
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\obj\Debug\MenuList.g.cs
+c:\Users\Oluwadamilare Ib\Documents\Visual Studio 2013\Projects\TTS App\TTS App\obj\Debug\martin.g.cs

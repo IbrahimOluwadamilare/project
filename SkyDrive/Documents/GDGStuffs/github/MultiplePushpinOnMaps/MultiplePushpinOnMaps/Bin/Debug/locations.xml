@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LOCATIONS>
+  <LOCATION>
+    <ID><![CDATA[1]]></ID>
+    <ADDRESS>
+      <![CDATA[ETF 2007 Lecture Theatre
+Middle Belt Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.302459]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.135615]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[A Leture Theatre]]></DESCRIPTION>
+  </LOCATION>
+
+  <LOCATION>
+    <ID><![CDATA[2]]></ID>
+     <ADDRESS>
+      <![CDATA[Big Lecture Theatre]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.302536]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.135011]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[A Leture Theatre]]></DESCRIPTION>
+  </LOCATION>
+
+<LOCATION>
+    <ID><![CDATA[3]]></ID>
+    <ADDRESS>
+      <![CDATA[Small Lecture Theater]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.302603]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.134602]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[A Leture Theatre]]></DESCRIPTION>
+  </LOCATION>
+    
+    <LOCATION>
+    <ID><![CDATA[4]]></ID>
+    <ADDRESS>
+      <![CDATA[School of Sciences]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.302109]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.133966]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School of Sciences]]></DESCRIPTION>
+      </LOCATION>
+
+    <LOCATION>
+    <ID><![CDATA[5]]></ID>
+    <ADDRESS>
+      <![CDATA[Mechanical Engineering Workshop]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.302894]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.133271]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Mechanical Engineering Workshop]]></DESCRIPTION>
+      </LOCATION>
+
+    <LOCATION>
+    <ID><![CDATA[4]]></ID>
+    <ADDRESS>
+      <![CDATA[School of Sciences]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.302109]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.133966]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School of Sciences]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[5]]></ID>
+    <ADDRESS>
+      <![CDATA[School of Engineering and Engineering Technology (SEET)
+Middle Belt Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.303210]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.135803]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School of Engineering and Engineering Technology (SEET)
+Middle Belt Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[6]]></ID>
+    <ADDRESS>
+      <![CDATA[3 in 1 Lecture Theater]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.301153]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.133785]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[3 in 1 Lecture Theater]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[7]]></ID>
+    <ADDRESS>
+      <![CDATA[School of Post Graduate Research Lab
+Akure]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.301457]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.134341]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School of Post Graduate Research Lab
+Akure]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[8]]></ID>
+    <ADDRESS>
+      <![CDATA[School of Sciences]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.302109]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.133966]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School of Sciences]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[9]]></ID>
+    <ADDRESS>
+      <![CDATA[School Of Agriculture And Agriculture Technology]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.301659]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.135217]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School Of Agriculture And Agriculture Technology]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[10]]></ID>
+    <ADDRESS>
+      <![CDATA[Center for Research and Development]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.300978]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.135027]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Center for Research and Development]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[11]]></ID>
+    <ADDRESS>
+      <![CDATA[Alhaji Adamu Academic Complex
+Akure]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.301413]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.134595]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Alhaji Adamu Academic Complex
+Akure]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[12]]></ID>
+    <ADDRESS>
+      <![CDATA[University Library
+Niger Delta Rd, Akure]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.304088]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.134564]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[University Library
+Niger Delta Rd, Akure]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[13]]></ID>
+    <ADDRESS>
+      <![CDATA[CBN Computer Bldg]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.304752]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.135022]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[CBN Computer Bldg]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[14]]></ID>
+    <ADDRESS>
+      <![CDATA[Center For Continuing Education
+Middle Belt Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.304387]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.136090]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Center For Continuing Education
+Middle Belt Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[15]]></ID>
+    <ADDRESS>
+      <![CDATA[Computer Resource Center, Niger Delta Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.304973]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.134664]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Computer Resource Center, Niger Delta Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[16]]></ID>
+    <ADDRESS>
+      <![CDATA[Center for Entrepreneurship and Skills Aquisation]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.304530]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.133697]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Center for Entrepreneurship and Skills Aquisation]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[17]]></ID>
+    <ADDRESS>
+      <![CDATA[School of Sciences]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.302109]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.133966]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School of Sciences]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[18]]></ID>
+    <ADDRESS>
+      <![CDATA[FUTA Tennis Court
+Usman Dan Fodio Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.306331]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.136355]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[FUTA Tennis Court
+Usman Dan Fodio Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[19]]></ID>
+    <ADDRESS>
+      <![CDATA[Chapel Of Faith]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.306100]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.133628]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Chapel Of Faith]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[20]]></ID>
+    <ADDRESS>
+      <![CDATA[2 in 1 lecture theater]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.298151]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.136526]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[2 in 1 lecture theater]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[21]]></ID>
+    <ADDRESS>
+      <![CDATA[School Of Environmental Technology
+Middle Belt Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.299510]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.136260]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School Of Environmental Technology
+Middle Belt Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[22]]></ID>
+    <ADDRESS>
+      <![CDATA[School Of Post Graduate Studies
+Middle Belt Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.299034]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.135026]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School Of Post Graduate Studies
+Middle Belt Rd]]></DESCRIPTION>
+      </LOCATION>
+
+    <LOCATION>
+    <ID><![CDATA[23]]></ID>
+    <ADDRESS>
+      <![CDATA[T I Francis auditorium]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.301382]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.138044]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[T I Francis auditorium]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[24]]></ID>
+    <ADDRESS>
+      <![CDATA[School Of Post Graduate Studies
+Middle Belt Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.299034]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.135026]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[School Of Post Graduate Studies
+Middle Belt Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[25]]></ID>
+    <ADDRESS>
+      <![CDATA[Futa Power Station
+Middle Belt Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.300962]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.136653]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Futa Power Station
+Middle Belt Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[26]]></ID>
+    <ADDRESS>
+      <![CDATA[Useni Bldg
+Middle Belt Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.300980]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.138704]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Useni Bldg
+Middle Belt Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[27]]></ID>
+    <ADDRESS>
+      <![CDATA[Student Union Bldg, Elkanemi Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.304408]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.139522]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Student Union Bldg, Elkanemi Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[28]]></ID>
+    <ADDRESS>
+      <![CDATA[Lady Deborah Jibowu Hall, MALU Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.305135]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.141587]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Lady Deborah Jibowu Hall, MALU Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[29]]></ID>
+    <ADDRESS>
+      <![CDATA[Futa Secondary School
+Oduduwa Rd]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.293818]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.148966]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Futa Secondary School
+Oduduwa Rd]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[30]]></ID>
+    <ADDRESS>
+      <![CDATA[FUTA SENATE BULD. ]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.302335]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.139494]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[FUTA SENATE BULD.]]></DESCRIPTION>
+      </LOCATION>
+    <LOCATION>
+    <ID><![CDATA[31]]></ID>
+    <ADDRESS>
+      <![CDATA[Digital Resources and Research Center ]]>
+    </ADDRESS>
+    <CITY><![CDATA[Ondo State]]></CITY>
+    <COUNTRY><![CDATA[Nigeria]]></COUNTRY>
+    <LATITUDE><![CDATA[7.305188]]></LATITUDE>
+    <LONGITUDE><![CDATA[5.133730]]></LONGITUDE>
+    <DESCRIPTION><![CDATA[Digital Resources and Research Center]]></DESCRIPTION>
+      </LOCATION>
+</LOCATIONS>

@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="Emergency_response_control.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Emergency_response_control"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Center"
+                   FontSize="70"
+                   TextAlignment="Center"
+                   Margin="137,90,134,0"
+                   TextWrapping="Wrap"
+                   Text="Emergency Response System Control Screen"
+                   VerticalAlignment="Top"
+                   Width="1095" />
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,71 @@
+﻿<Page x:Class="JAMB_TEST.Information"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:local="using:JAMB_TEST"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      mc:Ignorable="d">
+    <Page.Background>
+        <LinearGradientBrush EndPoint="0.5,1"
+                             StartPoint="0.5,0">
+            <GradientStop Color="#FF26B5C3"
+                          Offset="0" />
+            <GradientStop Color="#FF2143DC"
+                          Offset="1" />
+        </LinearGradientBrush>
+    </Page.Background>
+
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25*" />
+                <RowDefinition Height="75*" />
+            </Grid.RowDefinitions>
+            <StackPanel x:Name="Title_Block"
+                        Grid.Row="0">
+                <TextBlock x:Name="Application_Name"
+                           Text="Pre JAMB Test Solution"
+                           Margin="30,5,5,5"
+                           FontSize="20"
+                           FontFamily="Adobe Caslon Pro" />
+                <StackPanel Orientation="Horizontal"
+                            Height="60">
+                    <TextBlock x:Name="Welcome_Message"
+                               Text="User Information"
+                               Margin="30,17,5,5"
+                               Style="{StaticResource TitleTextBlockStyle}"
+                               FontFamily="Adobe Caslon Pro"
+                               FontSize="35" />
+                    <Image Source="/Assets/Pencil.png"
+                           Margin="0,0,0,-6"
+                           Stretch="None"
+                           Height="58"
+                           Width="93" />
+                </StackPanel>
+                <TextBlock x:Name="Intro_Text"
+                           Text="Please read the information below carefully before you start the examination:"
+                           TextWrapping="Wrap"
+                           Margin="30,10,5,10"
+                           FontSize="20"
+                           FontFamily="Adobe Caslon Pro" />
+
+            </StackPanel>
+        </Grid>
+
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF288EAC">
+            <AppBarButton x:ConnectionId='1' x:Uid="AddAppBarButton"
+                          x:Name="AddAppBarButton"
+                          Label="Start Test"
+                          Icon="GoToStart"
+                                        />
+            <AppBarButton x:ConnectionId='2' x:Uid="AddAppBarButton1"
+                          x:Name="AddAppBarButton1"
+                          Label="About"
+                          Icon="Help"
+                                        />
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+
